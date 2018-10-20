@@ -18,7 +18,7 @@ __Certifications__
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/ozarion/information-security-and-quality-assurance)
          
 __Education__         
-**Bachelors (Computer Science)**
+**Bachelors (Computer Science)**        
 PAF Karachi Institute Of Economics & Technology (PAF-KIET),
 Graduating (from 2016 to 2020)
                        
