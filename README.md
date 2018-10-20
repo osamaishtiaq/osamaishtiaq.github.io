@@ -1,5 +1,5 @@
 **Usama Ishtiaq** (Ozarion)     
-**Email**: orionrenegado@gmail.com      
+**Email**: orionrenegado@gmail.com
 **Mobile**: +923002770524   
    
 __Professional Summary__    
@@ -30,19 +30,18 @@ __Personal Details__
  Residency       : Karachi, Pakistan        
          
 __Front End__       
-* Javascript       
+* Javascript (ES6, Babel, Npm Task Automation, Webpack)          
 * React.js         
 * Redux          
 * Jquery              
-* Bootstrap            
+* Bootstrap             
 * D3.js (Data Visualization)         
 * CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries)         
           
 __Back End__      
 * Node.js             
 * Express.js         
-* Mongodb       
-* Mongoose        
+* MongoDB, Mongoose      
 * Pug/Jade       
 * Socket.io (Web Socket)       
         
