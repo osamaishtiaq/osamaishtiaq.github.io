@@ -1,6 +1,6 @@
-**Usama Ishtiaq** (Ozarion)     
-**Email**: orionrenegado@gmail.com
-**Phone**: +923002770524   
+### **Usama Ishtiaq** (Ozarion)     
+### **Email**: orionrenegado@gmail.com      
+### **Phone**: +923002770524     
    
 __Professional Summary__    
 * Proficient in Creating Modern Full Stack Web Applications        
@@ -22,13 +22,6 @@ __Education__
 PAF Karachi Institute Of Economics & Technology (PAF-KIET), 
 Graduating (from 2016 to 2020)        
    
-__Personal Details__              
- Online Alias    : Ozarion        
- DOB             : 28/02/1999          
- Gender          : Male                
- Languages       : English (Fluent)      
- Residency       : Karachi, Pakistan        
-         
 __Front End__       
 * Javascript (ES6, Babel, Npm Task Automation, Webpack)          
 * React.js         
@@ -61,8 +54,15 @@ __Other Programming Languages, Frameworks and Skills__
 * Familiar with Functional Programming Paradigm        
 * Strong Relational Database Design Concepts       
 * Familiar with Python, C# and .Net Windows Form        
-* Familiar with Cross-Platform Mobile Application Development using React Native        
+* Familiar with Cross-Platform Mobile Application Development using React Native                  
                
+__Personal Details__                  
+ Gender          : Male                
+ Languages       : English (Fluent)      
+ Residency       : Karachi, Pakistan        
+ Online Alias    : Ozarion        
+ DOB             : 28/02/1999      
+    
 __Links__        
  [Visit My Github](https://github.com/Ozarion) to see all sorts of Projects I do       
  [Visit My Codepen](https://codepen.io/ozarion/) to see some of my Front-End Projects      
