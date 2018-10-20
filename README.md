@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+# **Usama Ishtiaq** (Ozarion)   
+Male, 19 Years, Karachi, Pakistani   
+**Email**: orionrenegado@gmail.com   
+**Mobile**: +923002770524
 
-You can use the [editor on GitHub](https://github.com/Ozarion/ozarion.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Professional Summary
+* Proficient in Creating Modern Full Stack Web Applications
+* Proficient in Creating Back-End Rest-APIs
+* Proficient in JavaScript, Node.js, Express, MongoDB, Mongoose, React
+* Familiar with SQL, Jquery, Bootstrap, Redux, React Native, Git, GraphQL, Bash
 
-### Markdown
+## Front End
+* Javascript
+* React.js
+* Redux
+* Jquery
+* Ajax
+* Bootstrap
+* D3.js (Data Visualization)
+* CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Back End
+* Node.js
+* Express.js
+* Mongodb
+* Mongoose
+* Pug
+* Socket.io (Web Socket)
 
-```markdown
-Syntax highlighted code block
+## Testing And Quality Assurance
+* Chai (Testing)
+* Passport.js (Authentication)
+* Helmet.js (Security)
+* Mocha
 
-# Header 1
-## Header 2
-### Header 3
+## Administrative Skills
+* Familiar with Linux Command Line
+* Familiar with Application Deployment
+* Familiar with Bash scripting
+* Familiar with Vagrant
+* Familiar with Git Version Control
 
-- Bulleted
-- List
+## Other Programming Languages, Frameworks and Skills
+* Proficient in Essential Data Structures, Algorithms and Problem Solving
+* Familiar in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
+* Familiar with Object Oriented Programming and Design Paradigm
+* Familiar with Functional Programming Paradigm
+* Familiar with Relational Database Design Concepts
+* Familiar with Python, C# and .Net Windows Form
+* Familiar with Cross-Platform Mobile Application Development using React Native
 
-1. Numbered
-2. List
+#### Visit [My Codepen](https://codepen.io/ozarion/) to see some of my Front-End Projects
+#### Visit [My Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
+#### Visit [My Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Personal Information
+#### Name            : Usama Ishtiaq       
+#### DOB             : 28/02/1999          
+#### Gender          : Male                
+#### Nationality     : Pakistani           
+#### Residency       : Karachi, Pakistan   
+#### Maritual Status : Single       	      
+#### Languages       : English (Fluent)     
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Education
+### Bachelors (Computer Science)    
+PAF Karachi Institute Of Economics & Technology (PAF-KIET), Karachi, Pakistan    
+Graduating (from 2016 to 2020)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ozarion/ozarion.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Certifications
+* [FCC Full Stack Developer Certification](https://www.freecodecamp.org/certification/ozarion/full-stack)
+* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
+* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
+* [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
+* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
+* [Data Visualization Certification](https://www.freecodecamp.org/certification/ozarion/data-visualization)
+* [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/ozarion/information-security-and-quality-assurance)
