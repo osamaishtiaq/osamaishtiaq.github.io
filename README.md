@@ -29,47 +29,47 @@ __Personal Details__
  Languages       : English (Fluent)      
  Residency       : Karachi, Pakistan        
          
-__Front End__
-* Javascript
-* React.js
-* Redux
-* Jquery
-* Socket.io Web Socket
-* Bootstrap
-* D3.js (Data Visualization)
-* CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries)
+__Front End__       
+* Javascript       
+* React.js         
+* Redux          
+* Jquery          
+* Socket.io Web Socket        
+* Bootstrap            
+* D3.js (Data Visualization)         
+* CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries)         
+          
+__Back End__      
+* Node.js          
+* Express.js         
+* Mongodb          
+* Mongoose          
+* Pug/Jade         
+* Socket.io (Web Socket)        
+        
+__Testing And Quality Assurance__        
+* Chai (Testing)        
+* Passport.js (Authentication)        
+* Helmet.js (Security)       
+* Mocha      
+     
+__Administrative Skill__         
+* Familiar with Linux Command Line           
+* Familiar with Application Deployment        
+* Familiar with Bash scripting        
+* Familiar with Vagrant        
+* Familiar with Git Version Control        
 
-__Back End__
-* Node.js
-* Express.js
-* Mongodb
-* Mongoose
-* Pug/Jade
-* Socket.io (Web Socket)
-
-__Testing And Quality Assurance__
-* Chai (Testing)
-* Passport.js (Authentication)
-* Helmet.js (Security)
-* Mocha
-
-__Administrative Skill__
-* Familiar with Linux Command Line
-* Familiar with Application Deployment
-* Familiar with Bash scripting
-* Familiar with Vagrant
-* Familiar with Git Version Control
-
-__Other Programming Languages, Frameworks and Skills__
-* Proficient in Essential Data Structures, Algorithms and Problem Solving
-* Familiar in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
-* Familiar with Object Oriented Programming and Design Paradigm
-* Familiar with Functional Programming Paradigm
-* Familiar with Relational Database Design Concepts
-* Familiar with Python, C# and .Net Windows Form
-* Familiar with Cross-Platform Mobile Application Development using React Native
-             
-__Links__       
+__Other Programming Languages, Frameworks and Skills__        
+* Proficient in Essential Data Structures, Algorithms and Problem Solving         
+* Familiar in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development       
+* Familiar with Object Oriented Programming and Design Paradigm         
+* Familiar with Functional Programming Paradigm        
+* Familiar with Relational Database Design Concepts       
+* Familiar with Python, C# and .Net Windows Form        
+* Familiar with Cross-Platform Mobile Application Development using React Native        
+               
+__Links__        
  [Visit My Codepen Account](https://codepen.io/ozarion/) to see some of my Front-End Projects      
  [Visit My Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects       
  [Visit My Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do
