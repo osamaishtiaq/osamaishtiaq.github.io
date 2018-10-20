@@ -1,4 +1,4 @@
-**Usama Ishtiaq** (Ozarion), Male, Karachi, Pakistan  
+**Usama Ishtiaq** (Ozarion)  
 **Email**: orionrenegado@gmail.com   
 **Mobile**: +923002770524
 
@@ -21,7 +21,19 @@ __Education__
 **Bachelors (Computer Science)**
 PAF Karachi Institute Of Economics & Technology (PAF-KIET), Karachi, Pakistan    
 Graduating (from 2016 to 2020)
+             
+__Links__       
+ Visit [Codepen Account](https://codepen.io/ozarion/) to see some of my Front-End Projects
+ Visit [Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
+ Visit [Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do
 
+__Personal Details__              
+ Online Alias    : Ozarion        
+ DOB             : 28/02/1999          
+ Gender          : Male                
+ Languages       : English (Fluent)      
+ Residency       : Karachi, Pakistan        
+         
 __Front End__
 * Javascript
 * React.js
@@ -61,16 +73,3 @@ __Other Programming Languages, Frameworks and Skills__
 * Familiar with Relational Database Design Concepts
 * Familiar with Python, C# and .Net Windows Form
 * Familiar with Cross-Platform Mobile Application Development using React Native
-      
-__Personal Details
- Name            : Usama Ishtiaq       
- Online Alias    : Ozarion        
- DOB             : 28/02/1999          
- Gender          : Male                
- Languages       : English (Fluent)      
- Residency       : Pakistan        
-       
-__Links__       
- Visit [Codepen Account](https://codepen.io/ozarion/) to see some of my Front-End Projects
- Visit [Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
- Visit [Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do
