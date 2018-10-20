@@ -62,15 +62,16 @@ Graduating (from 2016 to 2020)
 * Familiar with Relational Database Design Concepts
 * Familiar with Python, C# and .Net Windows Form
 * Familiar with Cross-Platform Mobile Application Development using React Native
-
-# Personal Details
+      
+## Personal Details
 #### Name            : Usama Ishtiaq       
 #### Online Alias    : Ozarion        
 #### DOB             : 28/02/1999          
 #### Gender          : Male                
 #### Languages       : English (Fluent)      
 #### Residency       : Pakistan        
-
+       
+## Links       
 #### Visit [Codepen Account](https://codepen.io/ozarion/) to see some of my Front-End Projects
 #### Visit [Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
 #### Visit [Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do
