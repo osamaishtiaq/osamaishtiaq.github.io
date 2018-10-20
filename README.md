@@ -43,7 +43,7 @@ __Back End__
 * Pug/Jade (Templating Engines)      
 * Socket.io (Web Socket)       
         
-__Testing And Quality Assurance__
+__Testing And Quality Assurance__       
 * Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development       
 * Mocha (Testing Framework)      
 * Chai (Unit & Functional Testing)        
