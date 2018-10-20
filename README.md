@@ -1,6 +1,6 @@
 **Usama Ishtiaq** (Ozarion)     
 **Email**: orionrenegado@gmail.com
-**Mobile**: +923002770524   
+**Phone**: +923002770524   
    
 __Professional Summary__    
 * Proficient in Creating Modern Full Stack Web Applications        
