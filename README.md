@@ -7,15 +7,15 @@ __Professional Summary__
 * Proficient in Creating Back-End Rest-APIs
 * Proficient in JavaScript, Node.js, Express, MongoDB, Mongoose, React
 * Familiar with SQL, Jquery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket
-
-__Certifications__
-* [FCC Full Stack Developer Certification](https://www.freecodecamp.org/certification/ozarion/full-stack)
-* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
-* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
-* [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
-* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
-* [Data Visualization Certification](https://www.freecodecamp.org/certification/ozarion/data-visualization)
-* [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/ozarion/information-security-and-quality-assurance)
+      
+__Certifications__       
+* [FCC Full Stack Developer Certification](https://www.freecodecamp.org/certification/ozarion/full-stack)       
+* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)      
+* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)        
+* [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)       
+* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)      
+* [Data Visualization Certification](https://www.freecodecamp.org/certification/ozarion/data-visualization)      
+* [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/ozarion/information-security-and-quality-assurance)       
          
 __Education__         
 **Bachelors (Computer Science)**        
@@ -33,19 +33,18 @@ __Front End__
 * Javascript       
 * React.js         
 * Redux          
-* Jquery          
-* Socket.io Web Socket        
+* Jquery              
 * Bootstrap            
 * D3.js (Data Visualization)         
 * CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries)         
           
 __Back End__      
-* Node.js          
+* Node.js             
 * Express.js         
-* Mongodb          
-* Mongoose          
-* Pug/Jade         
-* Socket.io (Web Socket)        
+* Mongodb       
+* Mongoose        
+* Pug/Jade       
+* Socket.io (Web Socket)       
         
 __Testing And Quality Assurance__        
 * Chai (Testing)        
