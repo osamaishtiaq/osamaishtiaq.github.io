@@ -1,8 +1,8 @@
-**Usama Ishtiaq** (Ozarion)  
-**Email**: orionrenegado@gmail.com   
-**Mobile**: +923002770524
-
-__Professional Summary__
+**Usama Ishtiaq** (Ozarion)     
+**Email**: orionrenegado@gmail.com      
+**Mobile**: +923002770524   
+   
+__Professional Summary__    
 * Proficient in Creating Modern Full Stack Web Applications
 * Proficient in Creating Back-End Rest-APIs
 * Proficient in JavaScript, Node.js, Express, MongoDB, Mongoose, React
@@ -16,17 +16,17 @@ __Certifications__
 * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
 * [Data Visualization Certification](https://www.freecodecamp.org/certification/ozarion/data-visualization)
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/ozarion/information-security-and-quality-assurance)
-
-__Education__
+         
+__Education__         
 **Bachelors (Computer Science)**
-PAF Karachi Institute Of Economics & Technology (PAF-KIET), Karachi, Pakistan    
+PAF Karachi Institute Of Economics & Technology (PAF-KIET),
 Graduating (from 2016 to 2020)
-             
+                 
 __Links__       
- Visit [Codepen Account](https://codepen.io/ozarion/) to see some of my Front-End Projects
- Visit [Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
- Visit [Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do
-
+ Visit [Codepen Account](https://codepen.io/ozarion/) to see some of my Front-End Projects      
+ Visit [Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects       
+ Visit [Github Profile](https://github.com/Ozarion) to see all sorts of Projects I do        
+       
 __Personal Details__              
  Online Alias    : Ozarion        
  DOB             : 28/02/1999          
