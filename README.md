@@ -1,4 +1,4 @@
-## **Usama Ishtiaq** (Ozarion)     
+## **Osama Ishtiaq** (Ozarion)     
 ### Email: orionrenegado@gmail.com Phone: +923002770524     
      
 __Professional Summary__    
