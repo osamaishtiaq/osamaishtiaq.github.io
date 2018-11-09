@@ -1,4 +1,4 @@
-## **Osama Ishtiaq** (Ozarion)     
+## **Osama Ishtiaq**
 ### Email: orionrenegado@gmail.com Phone: +923002770524     
      
 __Professional Summary__    
@@ -63,6 +63,6 @@ __Personal Details__
  DOB             : 28/02/1999      
     
 __Links__        
- [Visit My Github](https://github.com/Ozarion) to see all sorts of Projects I do       
- [Visit My Codepen](https://codepen.io/ozarion/) to see some of my Front-End Projects      
+ [Visit My Github](https://github.com/osamaishtiaq) to see all sorts of Projects I do       
+ [Visit My Codepen](https://codepen.io/oisee/) to see some of my Front-End Projects      
  [Visit My Glitch](https://glitch.com/@Ozarion) to see some of my Back-End projects
