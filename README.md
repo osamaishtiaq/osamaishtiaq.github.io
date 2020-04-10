@@ -81,4 +81,5 @@ __Personal Details__
     
 __Links__        
  [Visit My Github](https://github.com/osamaishtiaq) to see some of my open source work
+ 
  [Visit My LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)
