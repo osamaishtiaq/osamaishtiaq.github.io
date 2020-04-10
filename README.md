@@ -80,5 +80,5 @@ __Personal Details__
  DOB             : 28/02/1999      
     
 __Links__        
- [Visit My Github](https://github.com/osamaishtiaq) to see all sorts of Projects I do       
+ [Visit My Github](https://github.com/osamaishtiaq) to see some of my open source work
  [Visit My LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)
