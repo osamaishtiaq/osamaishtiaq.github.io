@@ -7,11 +7,11 @@ __Professional Summary__
 * Proficient in C#, SQL, TypeScript, React.js, Angular, Javascript ES6, Node.js, .Net Framework
 * Familiar with Relational Databases, Design Patterns, Web Services, NoSQL, Native Android Development, SQL, Jquery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems
       
-__Work Experience__
-**Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**
+__Work Experience__  
+**Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**  
 My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, Ionic framework, .Net Core, SSRS Reporting and many more and learned about varios application architechure patterns and best practices. 
 
-**Ozarion Software Solutions (Apr 2015/Aug 2018)** 
+**Ozarion Software Solutions (Apr 2015/Aug 2018)**   
 At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primarily role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web application using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.
 
 __Certifications__       
@@ -80,6 +80,5 @@ __Personal Details__
  DOB             : 28/02/1999      
     
 __Links__        
- [Visit My Github](https://github.com/osamaishtiaq) to see some of my open source work
- 
+ [Visit My Github](https://github.com/osamaishtiaq) to see some of my open source work  
  [Visit My LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)
