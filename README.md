@@ -15,13 +15,13 @@ My role at Viftech Solutions is primarily that of a Full Stack .Net Developer ho
 At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primarily role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web application using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.
 
 __Certifications__       
-* [FCC Full Stack Developer Certification](https://www.freecodecamp.org/certification/ozarion/full-stack)       
-* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)      
-* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)        
-* [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)       
-* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)      
-* [Data Visualization Certification](https://www.freecodecamp.org/certification/ozarion/data-visualization)      
-* [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/ozarion/information-security-and-quality-assurance)       
+* [FCC Full Stack Developer Certification](https://www.freecodecamp.org/certification/oisee/full-stack)       
+* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/oisee/responsive-web-design)      
+* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/oisee/javascript-algorithms-and-data-structures)        
+* [Front End Libraries Certification](https://www.freecodecamp.org/certification/oisee/front-end-libraries)       
+* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/oisee/apis-and-microservices)      
+* [Data Visualization Certification](https://www.freecodecamp.org/certification/oisee/data-visualization)      
+* [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)       
          
 __Education__         
 **Bachelors (Computer Science)**        
