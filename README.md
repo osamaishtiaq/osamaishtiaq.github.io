@@ -4,9 +4,9 @@
      
 __Professional Summary__    
 * Proficient in Creating Modern Full Stack Web Applications in multiple stacks and technologies     
-* Proficient in Node.js (MERN/MEAN) stack, .Net framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)
-* Proficient in C#, SQL, TypeScript, React.js, Angular, Javascript ES6, Node.js, .Net Framework
-* Familiar with Relational Databases, Design Patterns, Web Services, NoSQL, Native Android Development, SQL, Jquery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems
+* Proficient in Node.js (MERN/MEAN) stack, .Net framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)   
+* Proficient in C#, SQL, TypeScript, React.js, Angular, Javascript ES6, Node.js, .Net Framework  
+* Familiar with Relational Databases, Design Patterns, Web Services, NoSQL, Native Android Development, SQL, Jquery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems  
       
 __Work Experience__  
 **Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**  
