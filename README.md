@@ -30,7 +30,7 @@ Virtual University Of Pakistan,
 Graduating (from 2019 to 2023)        
    
 __Front End__       
-* TypeScript / Javascript(ES6, TypeScript, Webpack)          
+* TypeScript / Javascript (ES6, NPM, Yarn, Webpack)          
 * React.js    
 * Angular Framework     
 * Redux (Data State Management)         
