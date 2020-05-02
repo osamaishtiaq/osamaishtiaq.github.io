@@ -2,7 +2,7 @@
 ### Email: orionrenegado@gmail.com  
 ### Phone: +923002770524       
      
-     
+
 __Professional Summary__    
 * Proficient in Creating Modern Full Stack Web Applications in multiple stacks and technologies   
 * Proficient in Node.js (MERN/MEAN) stack, .Net framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)   
@@ -60,6 +60,7 @@ __Back End__
 * Pug / Jade (Templating Engines)      
 * Socket.io (Web Socket)       
 * PostgreSQL, Microsoft SQL Server, MySQL Relational Databases
+* Hangfire Background Jobs, Scheduled Processes and Cron Jobs in Node.js and C#
 
         
 __Testing And Quality Assurance__       
