@@ -121,7 +121,7 @@ __Recent Projects__
 * Build with SQL Server, Custom C# Batch processes for data processing and C# MVC for web portal    
 
 
-**Datawarehousing and ETL Tool for BytePro Loan Origination System**
+**Datawarehousing and ETL Tool for BytePro Loan Origination System**      
 * Built Datawarehousing and ETL Tool for BytePro Loan Origination System
 * Integrated with BytePro SDK
 * Data updated when loans are updated in connected source BytePro sources     
