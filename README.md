@@ -1,5 +1,5 @@
 ## **Osama Ishtiaq**    
-### Email: orionrenegado@gmail.com   
+### Email: usamaoic@gmail.com    
 ### Phone: +923002770524     
 ### Address: Flat# B58, Sunny Castle Block 14 Gulishtan-e-Johar, Karachi, 75290
      
