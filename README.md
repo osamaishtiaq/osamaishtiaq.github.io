@@ -1,8 +1,11 @@
-## **Osama Ishtiaq**    
-### Email: usamaoic@gmail.com    
-### Phone: +923002770524     
-### Address: Flat# B58, Sunny Castle Block 14 Gulishtan-e-Johar, Karachi, 75290
-     
+## **Osama Ishtiaq**
+ **Email: usamaoic@gmail.com**    
+ **Phone: +923002770524**    
+ **Address: Flat# B58, Sunny Castle Block 14 Gulishtan-e-Johar, Karachi, 75290**    
+ **DOB : 28/02/1999**    
+ **Languages : English (Fluent)**    
+ **Residency : Karachi, Pakistan**    
+ **Online Alias : Oisee**    
 
 ### Professional Summary    
 * Proficient in Creating Modern Full Stack Web Applications in multiple stacks and technologies    
@@ -12,12 +15,21 @@
       
 
 ### Work Experience    
-**Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**   
-My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, Ionic framework, .Net Core, SSRS Reporting and many more and learned about varios application architechure patterns and best practices.      
+**Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**    
+My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about varios application architechure patterns and best practices.      
 
-**Ozarion Software Solutions (Apr 2015/Aug 2018)**   
+**Ozarion Software Solutions (Apr 2015/Aug 2018)**    
 At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primarily role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web application using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.      
 
+### Education    
+ **Bachelors in Computer Science**    
+    Virtual University Of Pakistan 2019-2023    
+ **Bachelors in Computer Science**    
+    PAF Kiet 2015-2018 (Abandoned due to schedule and family issues)    
+ **Intermediate in Computer Science**    
+    SM Govt. Science College 2013-2015    
+ **Matriculation**    
+    Karachi Board of Secondary Education 2012-2013    
 
 ### Certifications       
 * [FCC Full Stack Developer Certification](https://www.freecodecamp.org/certification/oisee/full-stack)       
@@ -28,19 +40,6 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * [Data Visualization Certification](https://www.freecodecamp.org/certification/oisee/data-visualization)      
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)       
          
-
-### Education    
-**Bachelors (Computer Science)**        
-Virtual University Of Pakistan,     
-Graduating (from 2019 to 2023)        
-
-
-### Personal Details    
- Gender          : Male                
- Languages       : English (Fluent)      
- Residency       : Karachi, Pakistan        
- Online Alias    : Oisee        
- DOB             : 28/02/1999      
 
 
 ### Front End    
