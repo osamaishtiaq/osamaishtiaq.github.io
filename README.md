@@ -10,13 +10,13 @@
 ### Professional Summary    
 * Proficient in Creating Modern Full Stack Web Applications in multiple stacks and technologies    
 * Proficient in Node.js (MERN/MEAN) stack, .Net framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)     
-* Proficient in C#, SQL, TypeScript, React.js, Angular, Javascript ES6, Node.js, .Net Framework    
-* Familiar with Relational Databases, Design Patterns, Web Services, NoSQL, Native Android Development, SQL, Jquery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems, Shopify Custom Apps, Themes and Store Development     
+* Proficient in C#, SQL, TypeScript, React.js, Angular, JavaScript ES6, Node.js, .Net Framework    
+* Familiar with Relational Databases, Design Patterns, Web Services, NoSQL, Native Android Development, SQL, jQuery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems, Shopify Custom Apps, Themes and Store Development     
       
 
 ### Work Experience    
 **Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**    
-My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about varios application architechure patterns and best practices.      
+My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about various application architecture patterns and best practices.      
 
 **Ozarion Software Solutions (Apr 2015/Aug 2018)**    
 At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primarily role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web application using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.      
@@ -43,12 +43,12 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 
 ### Front End    
-* TypeScript / Javascript (ES6, NPM, Yarn, Webpack)          
+* TypeScript / JavaScript (ES6, NPM, Yarn, Webpack)          
 * React.js     
 * GraphQL      
 * Angular Framework     
 * Redux (Data State Management)         
-* Jquery, Bootstrap, Bulma, D3.js (Data Visualization)          
+* jQuery, Bootstrap, Bulma, D3.js (Data Visualization)          
 * Advance CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries, Responsive Web Design)         
 * DevExtreme UI components    
 * Liquid Templates Shopify Themekit and StoreFront API    
@@ -104,7 +104,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 
 **Building Inspection System**     
-* Building inspection system initially developed for Jamatkhana Inspections but then generalized and refactored to create and perform inspection for any type and size of orgranization buildings    
+* Building inspection system initially developed for Jamatkhana Inspections but then generalized and refactored to create and perform inspection for any type and size of organization buildings    
 * Built with Angular 8 Framework Frontend and .Net Core Backend    
 * Built with development best practices such as dependency injection and N-tier architecture    
 
@@ -112,7 +112,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 **Datawarehousing and ETL Tool for Encompass DataConnect**       
 * Built Datawarehousing and ETL Tool for EllieMae DataConnect     
 * Built an algorithm that reads ElliMae Dataconnect mappings domain model path and auto creates relationships of each field and table     
-* User can select diffrent fields from encompass and create custom tables to analyze data and perform important business decisions     
+* User can select different fields from encompass and create custom tables to analyze data and perform important business decisions     
 * Data updated when loans are updated in connected source encompass database     
 * Dashboard for Important information    
 * Custom calculation fields    
@@ -131,7 +131,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Multivendor and Multistore Ecommerce website built using React.js and Shopify Backend     
 * Users can select products from many stores in their area and get them delivered at their doorsteps    
 * A data scrapper is implemented to scrap products from many stores and create products    
-* Shopify tags and smart collections are then used to smartly create stores in diffrent regions based on area code     
+* Shopify tags and smart collections are then used to smartly create stores in different regions based on area code     
 * Fluid user experience because of React.js Single Page Application UI.     
 * Node.js, Express.js and Shopify Admin API used for backend.     
 * React.js and Redux used for Frontend    
