@@ -1,11 +1,8 @@
 ## **Osama Ishtiaq**
- **Email: usamaoic@gmail.com**    
- **Phone: +923002770524**    
+ **usamaoic@gmail.com +923002770524**    
  **Address: Flat# B58, Sunny Castle Block 14 Gulishtan-e-Johar, Karachi, 75290**    
  **DOB : 28/02/1999**    
  **Languages : English (Fluent)**    
- **Residency : Karachi, Pakistan**    
- **Online Alias : Oisee**    
 
 ### Professional Summary    
 * Proficient in Creating Modern Full Stack Web Applications in multiple stacks and technologies    
