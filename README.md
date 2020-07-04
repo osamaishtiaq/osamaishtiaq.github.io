@@ -19,7 +19,7 @@
 My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about various application architecture patterns and best practices.      
 
 **Ozarion Software Solutions (Apr 2015/Aug 2018)**    
-At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primarily role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web application using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.      
+At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primary role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web applications using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.      
 
 ### Education    
  **Bachelors in Computer Science**    
@@ -109,8 +109,8 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Built with development best practices such as dependency injection and N-tier architecture    
 
 
-**Datawarehousing and ETL Tool for Encompass DataConnect**       
-* Built Datawarehousing and ETL Tool for EllieMae DataConnect     
+**Data Warehousing and ETL Tool for Encompass DataConnect**       
+* Built Data Warehousing and ETL Tool for EllieMae DataConnect     
 * Built an algorithm that reads ElliMae Dataconnect mappings domain model path and auto creates relationships of each field and table     
 * User can select different fields from encompass and create custom tables to analyze data and perform important business decisions     
 * Data updated when loans are updated in connected source encompass database     
@@ -119,8 +119,8 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Build with SQL Server, Custom C# Batch processes for data processing and C# MVC for web portal    
 
 
-**Datawarehousing and ETL Tool for BytePro Loan Origination System**      
-* Built Datawarehousing and ETL Tool for BytePro Loan Origination System      
+**Data Warehousing and ETL Tool for BytePro Loan Origination System**      
+* Built Data Warehousing and ETL Tool for BytePro Loan Origination System      
 * Integrated with BytePro SDK     
 * Data updated when loans are updated in connected source BytePro sources     
 * Dashboard for Important information    
@@ -128,7 +128,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Build with SQL Server, Custom C# Batch processes for data processing and C# MVC for web portal      
 
 **Troopsie Grocery Delivery**    
-* Multivendor and Multistore Ecommerce website built using React.js and Shopify Backend     
+* Multi vendor and Multi store Ecommerce website built using React.js and Shopify Backend     
 * Users can select products from many stores in their area and get them delivered at their doorsteps    
 * A data scrapper is implemented to scrap products from many stores and create products    
 * Shopify tags and smart collections are then used to smartly create stores in different regions based on area code     
