@@ -47,38 +47,42 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * TypeScript / JavaScript (ES6, NPM, Yarn, Webpack)          
 * React.js     
 * GraphQL      
-* Angular Framework     
-* Redux (Data State Management)         
-* jQuery, Bootstrap, Bulma, D3.js (Data Visualization)          
+* Angular Framework (RxJs)     
+* Redux / Flux (Data State Management)      
+* jQuery, Bootstrap, Material UI, D3.js (Data Visualization), DevExtreme UI components        
+* Pug / Jade / Handlebars / (Templating Engines)      
 * Advance CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries, Responsive Web Design)         
-* DevExtreme UI components    
-* Liquid Templates Shopify Themekit and StoreFront API    
+* Liquid Templates Shopify Themekit and StoreFront API     
 
 ### Back End    
-* C# .Net Framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)    
+* C# .Net Framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)     
 * Node.js (Express.js, Apollo)     
-* MongoDB, Mongoose      
-* Pug / Jade (Templating Engines)      
-* Socket.io (Web Socket)       
+* NoSQL MongoDB, Mongoose, Firebase Firestore      
+* Socket.io / SignalR (Web Socket)       
 * PostgreSQL, Microsoft SQL Server, MySQL Relational Databases     
 * Hangfire Background Jobs, Scheduled Processes and Cron Jobs in Node.js and C#     
 
         
 ### Testing And Quality Assurance    
-* Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development       
-* Mocha (Testing Framework)      
-* Chai (Unit & Functional Testing)        
-* Passport.js (Authentication), Helmet.js (Security)       
+* Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development          
+* Node.js - Passport.js (Authentication), Helmet.js (Security), Chai, Mocha       
 * .Net C# NUnit tests    
 * Puppeteer    
 
 ### Administrative Skill    
 * Familiar with Windows Server (Task Scheduling / Powershell)           
 * Familiar with Linux Command Line, Bash Scripting     
-* Experience in Application Deployment (Heroku / Windows Server / Ubuntu Linux/ Azure)               
-* Familiar with Vagrant        
-* Familiar with Git Version Control      
+* Experience in Application Deployment (Heroku / Windows Server / Ubuntu Linux/ Azure DevOps CI)               
+* Familiar with Vagrant, Docker Containers        
+* Familiar with Git Version Control, TFS, Tortoise SVN      
 
+
+### Project Management Skill    
+* Familiar with Agile Project Management using Azure DevOps           
+* Experienced in distributing tasks, planning and creating sprints using Kanban Boards, Agile & Scrum        
+* Experienced in gathering requirements and translating technical information to clients       
+* Experienced in understading and translating domain specific information, rules and facts from client to developer teams       
+ 
 ### Other Programming Languages, Frameworks and Skills        
 * Proficient in Essential Data Structures, Algorithms and Problem Solving     
 * Familiar with Object Oriented Programming and Object Oriented Analysis & Design    
@@ -87,7 +91,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Familiar with Application Coding Patterns like N-Tier Architecture, Hexagonal/Onion/Clean Architecture, MVC, MVVM and more    
 * Familiar with Functional Programming Paradigm    
 * Strong Relational Database Design Concepts       
-* Familiar with Python scripting    
+* Familiar with Python scripting     
 * Familiar with Cross-Platform Mobile Application Development using React Native     
 * Familiar with Native Android Development    
 * Familiar with Web Scraping and Task Automations     
@@ -145,5 +149,5 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 
 ### Links        
- [Visit My Github](https://github.com/osamaishtiaq) to see some of my open source work    
- [Visit My LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)    
+ [Github](https://github.com/osamaishtiaq), [LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)
+ 
