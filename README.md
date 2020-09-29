@@ -12,10 +12,13 @@
       
 
 ### Work Experience    
-**Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Present)**    
+**Senior Software Engineer - ZEPCOM (Aug 2020 - Present)**     
+Providing my services as a Senior Software Engineer (.Net) at ZEPCOM. At ZEPCOM, My work includes working on F4Tech's Data-Driven Natural Resource Management Solutions. F4Tech is one of the leading names in Natural Resources Management solutions providers. I, with a team of specialized developers, are responsible for their database, web portals and web applications development and maintenance.     
+        
+**Software Engineer - Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Aug 2020)**    
 My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about various application architecture patterns and best practices.      
 
-**Ozarion Software Solutions (Apr 2015/Aug 2018)**    
+**Full Stack Developer - Ozarion Software Solutions (Apr 2015/Aug 2018)**    
 At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primary role was developing, testing and enhancing RESTful web apis in Node.js and developing modern web applications using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.      
 
 ### Education    
@@ -89,7 +92,13 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Familiar with Web Scraping and Task Automations     
 * Proficient in Shopify Custom Development including Shopify Apps, Themes and Store development, Shopify Storefront and Admin API.     
 
-## Recent Projects    
+## Recent Projects     
+**F4Tech's Resource Management Web Portal**     
+* Introduced multi tenancy into the application     
+* Integrated GIS Mapping for Plots and Stands real time spatial information      
+* Refactoring of performance, Fixed major performance breaking bugs, refactoring on architectural level.    
+
+
 **RnB Subscription Build your box application**     
 * Build your subscription and get your RollinNBowlin products delivered at home at your desired monthly/weekly plan    
 * Custom developed with Shopify Ecommerce, liquid templates, integrated shopify admin api, stripes subscription and hangfire jobs for order renewal and email notifications    
