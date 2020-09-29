@@ -5,10 +5,11 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary    
-* Proficient in Creating Modern Full Stack Web Applications in multiple stacks and technologies    
+* Proficient in Creating Scalable Software Solutions in multiple stacks and technologies    
 * Proficient in Node.js (MERN/MEAN) stack, .Net framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)     
 * Proficient in C#, SQL, TypeScript, React.js, Angular, JavaScript ES6, Node.js, .Net Framework    
-* Familiar with Relational Databases, Design Patterns, Web Services, NoSQL, Native Android Development, SQL, jQuery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems, Shopify Custom Apps, Themes and Store Development     
+* Strong fundamental knowledge of Software Engineering principles, Design patterns and Best practices     
+* Familiar with Relational Databases, Web Services, NoSQL, Native Android Development, SQL, jQuery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, AWS/Azure/Google Cloud technologies, Linux, Powershell, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems, Shopify Custom Apps, Themes and Store Development     
       
 
 ### Work Experience    
