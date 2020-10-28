@@ -1,15 +1,14 @@
 ## **Osama Ishtiaq**
  **usamaoic@gmail.com +923002770524**    
  **Address: Flat# B58, Sunny Castle Block 14 Gulishtan-e-Johar, Karachi, 75290**    
- **DOB : 28/02/1999**    
  **Languages : English (Fluent)**    
 
-### Professional Summary    
-* Proficient in Creating Scalable Software Solutions in multiple stacks and technologies    
-* Proficient in Node.js (MERN/MEAN) stack, .Net framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)     
-* Proficient in C#, SQL, TypeScript, React.js, Angular, JavaScript ES6, Node.js, .Net Framework    
-* Strong fundamental knowledge of Software Engineering principles, Design patterns and Best practices     
-* Familiar with Relational Databases, Web Services, NoSQL, Native Android Development, SQL, jQuery, Bootstrap, Redux, React Native, Git, GraphQL, Bash, Web Socket, AWS/Azure/Google Cloud technologies, Linux, Powershell, Azure Devops, Agile, SVN, Loan Origination/Mortgage Systems, Shopify Custom Apps, Themes and Store Development     
+### Professional Summary      
+* Experienced Full Stack developer experienced in creating scalable software solutions in multiple technologies and frameworks    
+* Proficient in Microsoft .Net / .Net Core (MVC, SPAs, WebAPI, ASP.NET Web Forms, WPF, Windows Forms, Razor Pages and Core .NET C# Services Development)     
+* Proficient in Node.js MERN Stack (React.js), MEAN Stack (Angular) and API Development using Express.js and Apollo     
+* Highly skilled in working with C#, TypeScript/EcmaScript, Python and SQL language     
+* Strong fundamental knowledge of Software Engineering principles, Design patterns and Best practices          
       
 
 ### Work Experience    
@@ -42,60 +41,81 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)       
          
 
-
 ### Front End    
-* TypeScript / JavaScript (ES6, NPM, Yarn, Webpack)          
 * React.js     
-* GraphQL      
 * Angular Framework (RxJs)     
+* TypeScript / JavaScript (ES6, NPM, Yarn, Webpack)        
+* GraphQL      
 * Redux / Flux (Data State Management)      
 * jQuery, Bootstrap, Material UI, D3.js (Data Visualization), DevExtreme UI components        
 * Pug / Jade / Handlebars / (Templating Engines)      
 * Advance CSS (Proficient in Sass, CSS Grids, CSS flexbox, CSS Animations, Media Queries, Responsive Web Design)         
-* Liquid Templates Shopify Themekit and StoreFront API     
+* Shopify Themekit, Liquid Templates and StoreFront API     
+
 
 ### Back End    
-* C# .Net Framework (ASP.Net MVC/Web Forms/Razor Pages/Windows Forms/.Net Core)     
+* C# .NET / .NET Core (DotNet) Framework (Windows Form, WPF, MVC, MFC, ASP.NET Web Forms)     
 * Node.js (Express.js, Apollo)     
-* NoSQL MongoDB, Mongoose, Firebase Firestore      
-* Socket.io / SignalR (Web Socket)       
-* PostgreSQL, Microsoft SQL Server, MySQL Relational Databases     
+* NoSQL (MongoDB, Firebase FireStore, Azure Cosmos, Redis)         
+* Socket.io, SignalR      
+* SQL Relational Databases (MSSQL, MySQL, PostgreSQL, SQLite)     
+* Message Brokers (Azure Service Bus, RabbbitMQ)
+* Authentication (OAuth, JWT, ASP.NET Core Identity)      
 * Hangfire Background Jobs, Scheduled Processes and Cron Jobs in Node.js and C#     
 
-        
+
+### Project Management Skill     
+* Experienced in solving non-technical roadblocks and if any persist, then communicating up the chain to find solutions      
+* Experienced in gathering requirements and translating technical information to and fro clients and developer teams       
+* Experienced in understading and translating domain specific information, rules and facts from clients to developer teams      
+* Experience and Insight for tracking changes down the line that may shift the time frame of the project, communicating delays and adjusting timeframing combining technical and domain specific knowledge      
+* Experience in planning sprints such that the workload is evenly distributed throughtout development cycle and everyone enjoys a peaceful life     
+
+
 ### Testing And Quality Assurance    
 * Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development          
 * Node.js - Passport.js (Authentication), Helmet.js (Security), Chai, Mocha       
 * .Net C# NUnit tests    
 * Puppeteer    
 
-### Administrative Skill    
+
+### DevOps    
 * Familiar with Windows Server (Task Scheduling / Powershell)           
 * Familiar with Linux Command Line, Bash Scripting     
 * Experience in Application Deployment (Heroku / Windows Server / Ubuntu Linux/ Azure DevOps CI)               
 * Familiar with Vagrant, Docker Containers        
-* Familiar with Git Version Control, TFS, Tortoise SVN      
 
-
-### Project Management Skill    
-* Familiar with Agile Project Management using Azure DevOps           
-* Experienced in distributing tasks, planning and creating sprints using Kanban Boards, Agile & Scrum        
-* Experienced in gathering requirements and translating technical information to clients       
-* Experienced in understading and translating domain specific information, rules and facts from client to developer teams       
  
-### Other Programming Languages, Frameworks and Skills        
-* Proficient in Essential Data Structures, Algorithms and Problem Solving     
-* Familiar with Object Oriented Programming and Object Oriented Analysis & Design    
-* Familiar with Design Patterns like Dependency Injection, Composition, Interfaces, Services, Repositories, Factories, Singletons and more    
-* Familiar with Application Architecture Patterns like Microservices, Monolithic Applications, Event driven systems and more    
-* Familiar with Application Coding Patterns like N-Tier Architecture, Hexagonal/Onion/Clean Architecture, MVC, MVVM and more    
-* Familiar with Functional Programming Paradigm    
-* Strong Relational Database Design Concepts       
-* Familiar with Python scripting     
+### Other Technical Skills        
+* Version control experience with Git, TFS, SVN     
+* Team collaboration experience Azure DevOps, Github for Teams and Atlassian JIRA              
+* Python (Experience building GUI/Task Automations, Web Scrappers and Data Science workflows with Python)     
 * Familiar with Cross-Platform Mobile Application Development using React Native     
-* Familiar with Native Android Development    
-* Familiar with Web Scraping and Task Automations     
 * Proficient in Shopify Custom Development including Shopify Apps, Themes and Store development, Shopify Storefront and Admin API.     
+
+
+### Areas of Expertise
+* Multi-tenant Software Systems     
+* Large Scale Distributed Systems     
+* SaaS Applications Development     
+* Ecommerce Applications Development     
+* API Development     
+* Web Development (Experienced building traditional web apps and modern Single Page Apps with React.js and Angular Framework Front-ends)     
+* Data warehouse Applications and ETL Tools Development     
+* Web Scraping, GUI Task Automations and Autonomous Bots Development     
+
+
+### Architectural & Development Experience in using     
+* Domain Driven Design      
+* Object Oriented Programming, Functional Programming, Reactive Programming      
+* Microservices Architecture, N-Tier Architecture, Hexagonal Architecture          
+* CQRS, Event Sourcing and Event Driven Architecture     
+* Test Driven Development     
+* Advance Relational Database Design Concepts      
+* Essential Data Structures, Algorithms and Problem Solving      
+* Application Programming Architecture like N-Tier Architecture, Hexagonal/Onion/Clean Architecture, MVC, MVVM      
+* Programming Design patterns (Observer, Strategy, Adapter, Factory, Dependency Injection, Template Method, Command etc.)     
+
 
 ## Recent Projects     
 **F4Tech's Resource Management Web Portal**     
