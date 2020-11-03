@@ -4,7 +4,7 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
-* Experienced Full Stack developer experienced in creating scalable software solutions in multiple technologies and frameworks    
+* Experienced Full Stack developer proficient in creating scalable software solutions in multiple technologies and frameworks    
 * Proficient in Microsoft .Net / .Net Core (MVC, SPAs, WebAPI, ASP.NET Web Forms, WPF, Windows Forms, Razor Pages and Core .NET C# Services Development)     
 * Proficient in Node.js MERN Stack (React.js), MEAN Stack (Angular) and API Development using Express.js and Apollo     
 * Highly skilled in working with C#, TypeScript/EcmaScript, Python and SQL language     
