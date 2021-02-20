@@ -64,7 +64,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 ### Project Management Skill            
 * Experienced in gathering requirements and translating technical information from stakeholders to developer teams             
 * Experience and Insight for tracking changes down the line that may shift the time frame of the project, communicating delays and adjusting timeframe combining technical and domain specific knowledge      
-* Experience in planning sprints such that the workload is evenly distributed throughout development cycle and everyone enjoys a peaceful life     
+* Experience in planning sprints such that the workload is evenly distributed throughout development cycle      
 * Team collaboration experience Azure DevOps, GitHub for Teams and Atlassian JIRA     
 
 
@@ -72,7 +72,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development         
 * Node.js - Passport.js (Authentication), Helmet.js (Security), Chai, Mocha      
 * .Net C# NUnit tests     
-* Puppeteer Browser Automation      
+* Puppeteer Browser Automation and Testing      
 
 
 ### DevOps    
@@ -141,18 +141,15 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 
 **Building Inspection System**     
-* Building inspection system initially developed for Jamatkhana Inspections but then generalized and refactored to create and perform inspection for any type and size of organization buildings    
-* Built with Angular 8 Framework Frontend and .Net Core Backend    
-* Built with development best practices such as dependency injection and N-tier architecture    
+* Developed complete building inspection and inventory management system. Being used by JamatKhanas all over the world for inspection and management of large buildings.         
+* Built with Angular 8 Framework, SQL Server, Azure, SSIS Reporting and ASP.Net Core         
 
 
 **Data Warehousing and ETL Tool for Encompass DataConnect**       
 * Built Data Warehousing and ETL Tool for EllieMae DataConnect     
 * Built an algorithm that reads ElliMae DataConnect mappings domain model path and auto creates relationships of each field and table     
-* User can select different fields from encompass and create custom tables to analyze data and perform important business decisions     
-* Data updated when loans are updated in connected source encompass database     
-* Dashboard for Important information    
-* Custom calculation fields    
+* User can select different fields from encompass and create custom tables by picking fields and custom calculation and produce helpful views and tables     
+* Web portal with Realtime information Dashboard        
 * Build with SQL Server, Custom C# Batch processes for data processing and C# MVC for web portal    
 
 
