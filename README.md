@@ -5,7 +5,7 @@
 ### Professional Summary      
 * Proficient in developing modern service oriented systems with microservices leveraging cloud infrastructure and containers using Node.js, .Net and Go Language Ecosystems.    
 * Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
-* Proficient in developing Angular and React.js SPAs with API Backends as well as MVC applications using NestJS and ASP.Net MVC.     
+* Proficient in developing Angular and React.js SPAs with API Backends as well as MVC applications using Node.js and ASP.Net.     
 * Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices          
       
 
