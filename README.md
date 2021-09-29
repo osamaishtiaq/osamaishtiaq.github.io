@@ -7,7 +7,8 @@
 * Proficient in developing APIs using both Rest and Soap services     
 * Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
 * Proficient in developing Angular and React.js SPAs with API Backends as well as MVC applications using Node.js and ASP.Net.     
-* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices          
+* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices     
+* Strong grasp of C#, TypeScript, JavaScript (EcmaScript), Python, C++, SQL, CSS and XML language          
       
 
 ### Work Experience    
