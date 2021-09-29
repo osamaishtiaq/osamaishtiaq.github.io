@@ -3,7 +3,8 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
-* Proficient in developing modern service oriented systems with microservices leveraging cloud infrastructure and containers using Node.js, .Net and Go Language Ecosystems.    
+* Proficient in developing modern service oriented systems with microservices leveraging cloud infrastructure and containers using Node.js, .Net and Python Language Ecosystems.    
+* Proficient in developing APIs using both Rest and Soap services     
 * Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
 * Proficient in developing Angular and React.js SPAs with API Backends as well as MVC applications using Node.js and ASP.Net.     
 * Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices          
@@ -51,7 +52,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Shopify Themes, Liquid Templates and StoreFront API     
 
 ### Back End    
-* C#, .NET - Entity Framework, EF Core, ASP.NET MVC, Web Forms, Windows Form, WPF     
+* C#, .NET - Entity Framework, EF Core, ASP.NET MVC, Web Forms, Windows Form, WPF, WCF Web Services, Blazor         
 * Node.js - Express.js, Apollo, NestJS     
 * NoSQL - MongoDB, Firebase FireStore, Azure Cosmos, Redis         
 * WebRTC, Socket.io, SignalR      
