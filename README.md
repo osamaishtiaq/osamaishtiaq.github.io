@@ -82,15 +82,16 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Linux Command Line & Bash Scripting     
 * Experience in Application Deployment to Heroku, Windows Server, Linux, Azure      
 * Docker        
-* Git, TFS, SVN     
+* Version Control using Git, TFS, SVN     
 
 
 ### Areas of Expertise      
 * Multi-tenant Systems
 * Geographical Information Systems (ESRI ArcGIS)        
 * Loan Origination Systems (Ellie Mae Encompass, BytePro)        
-* Fintech Systems     
+* Fintech Systems (Bank, Loan Origination Systems, Risk Analysis Systems)           
 * Enterprise Data Management Systems      
+* OpenEHR and FHIR Health Care Systems      
 * Realtime Systems      
 * High availability, fault-tolerant, distributed systems      
 * Ecommerce Applications     
