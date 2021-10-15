@@ -3,7 +3,7 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
-* Proficient in developing modern service oriented systems with microservices leveraging cloud infrastructure and containers using Node.js, .Net and Python Language Ecosystems.    
+* Proficient in developing modern service oriented systems with microservices leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS), .Net and Python Language Ecosystems.    
 * Proficient in developing APIs using both Rest and Soap services     
 * Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
 * Proficient in developing Angular and React.js SPAs with API Backends as well as MVC applications using Node.js and ASP.Net.     
