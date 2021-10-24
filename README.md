@@ -3,16 +3,16 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
-* Proficient in developing modern service oriented systems with microservices leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS), .Net and Python Language Ecosystems.    
-* Proficient in developing APIs using both Rest and Soap services     
-* Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
-* Proficient in developing Angular and React.js SPAs with API Backends as well as MVC applications using Node.js and ASP.Net.     
-* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices     
-* Strong grasp of C#, TypeScript, JavaScript (EcmaScript), Python, C++, SQL, CSS and XML language          
+* Proficient in developing modern service oriented systems leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS) and.Net Core C# Ecosystems.    
+* Proficient in developing APIs using both Rest and Soap protocols.     
+* Proficient in developing Angular (MEAN) and React.js (MERN) Stack SPA Applications with Backends Express.js and NestJS Backend.     
+* Proficient in developing Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
+* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices.     
+* Strong grasp of JavaScript (Frontend + Backend), C#, TypeScript, SQL, XML, Python, C++, SCSS and XML language. GraphQL, ASP.NET MVC and Express middleware development.        
       
 
 ### Work Experience    
-**Senior Software Engineer - ZEPCOM (Aug 2020 - Present)**     
+**Senior Software Engineer - ZEPCOM (Aug 2020 - Mar 2021)**     
 Providing my services as a Senior Software Engineer (.Net) at ZEPCOM. At ZEPCOM, My work includes working on F4Tech's Data-Driven Natural Resource Management Solutions. F4Tech is one of the leading names in Natural Resources Management solutions providers. I, with a team of specialized developers, are responsible for their database, web portals and web applications development and maintenance.     
         
 **Software Engineer - Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Aug 2020)**    
@@ -55,12 +55,12 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 ### Back End    
 * C#, .NET - Entity Framework, EF Core, ASP.NET MVC, Web Forms, Windows Form, WPF, WCF Web Services, Blazor         
 * Node.js - Express.js, Apollo, NestJS     
-* NoSQL - MongoDB, Firebase FireStore, Azure Cosmos, Redis         
+* NoSQL - MongoDB, Firebase FireStore, Redis         
 * WebRTC, Socket.io, SignalR      
 * SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite     
-* Message Brokers - Azure Service Bus, RabbitMQ     
+* Message Brokers - RabbitMQ     
 * Authentication - OAuth, JWT, ASP.NET Core Identity            
-* Python - Flask, Web Scrapping Application      
+* Python - Experience in scripting and task automation      
 * Go - Experience in building background jobs and CLI services     
 
 ### Project Management Skill            
@@ -86,15 +86,14 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 
 ### Areas of Expertise      
-* Multi-tenant Systems
+* Health Care Systems built on OpenEHR and FHIR Specifications        
+* Multi-tenant Systems        
 * Geographical Information Systems (ESRI ArcGIS)        
 * Loan Origination Systems (Ellie Mae Encompass, BytePro)        
 * Fintech Systems (Bank, Loan Origination Systems, Risk Analysis Systems)           
-* Enterprise Data Management Systems      
-* OpenEHR and FHIR Health Care Systems      
-* Realtime Systems      
-* High availability, fault-tolerant, distributed systems      
-* Ecommerce Applications     
+* Enterprise Data Management Systems            
+* Realtime high availability fault-tolerant systems      
+* Ecommerce Applications (using Shopify)    
 * Data warehouse Applications and ETL Tools Development      
 
 
@@ -109,7 +108,21 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Design patterns (CQRS, Inversion of Control etc.)      
 
 
-## Recent Projects     
+## Recent Projects      
+**KFHK Customer Onboarding system**     
+* Worked on implementing the frontend using Angular framework      
+* Worked on implementing KYC Application module using React.js and mirrorfly       
+* Worked on  integrating mirrorfly api for video call customer identification and KYC      
+* Worked on implementing backend using Node.js and developed realtime KYC verification by reading video call streams       
+* Worked on implementing backend Apis using NestJS framework      
+* Deployment and DevOps automation, worked on writing Dockerfiles and deployment scrips using shell         
+
+**KFHK Retail and Admin Banking Portal**       
+* Worked on implementing secure login and customer registration strategies using auth flows         
+* Worked on implementing Audit Logging feature throughout the application       
+* Worked on implementing Admin Portal            
+* Worked on designing and developing security strengthening regarding customer sensitive data by introducing caching layer level mapping of sensitive data      
+
 **F4Tech's ArcGIS Resource Allocation BI Tool and Management System**     
 * Introduced multi tenancy into the application     
 * Implemented ArcGIS Integrations for Plots and Stands real time mapping and Information retrieval      
