@@ -12,7 +12,7 @@
       
 
 ### Work Experience    
-**Senior Software Engineer - ZEPCOM (July 2021 - Present)**     
+**Senior Software Engineer - AION Digital (July 2021 - Present)**     
 Working on revamping KFHK bank infrastructure and all applications. I've worked on implementing application wide audit logging microservice on backend using express.js framework and introduced sensitive information masking enging. On the front end I've developed Admin portal from scratch using Angular framework and worked on implementing KYC video call verification feature using React.js and mirrorfly integration. Some of the technologies I've worked on are Node.js, NestJS framework, Docker, SQL Server, Redis, Angular framework and React.js.           
 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**     
