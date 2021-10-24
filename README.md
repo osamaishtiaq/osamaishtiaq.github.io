@@ -12,7 +12,10 @@
       
 
 ### Work Experience    
-**Senior Software Engineer - ZEPCOM (Aug 2020 - Mar 2021)**     
+**Senior Software Engineer - ZEPCOM (July 2021 - Present)**     
+Working on revamping KFHK bank infrastructure and all applications. I've worked on implementing application wide audit logging microservice on backend using express.js framework and introduced sensitive information masking enging. On the front end I've developed Admin portal from scratch using Angular framework and worked on implementing KYC video call verification feature using React.js and mirrorfly integration. Some of the technologies I've worked on are Node.js, NestJS framework, Docker, SQL Server, Redis, Angular framework and React.js.           
+
+**Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**     
 Providing my services as a Senior Software Engineer (.Net) at ZEPCOM. At ZEPCOM, My work includes working on F4Tech's Data-Driven Natural Resource Management Solutions. F4Tech is one of the leading names in Natural Resources Management solutions providers. I, with a team of specialized developers, are responsible for their database, web portals and web applications development and maintenance.     
         
 **Software Engineer - Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Aug 2020)**    
