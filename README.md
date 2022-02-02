@@ -1,22 +1,24 @@
 ## **Osama Ishtiaq**
- **usamaoic@gmail.com +923002770524**    
+ **osamaishtiaqdev@gmail.com +923002770524**    
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
-* Proficient in developing modern service oriented systems leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS) and.Net Core C# Ecosystems.    
-* Proficient in developing APIs using both Rest and Soap protocols.     
+* Proficient in developing modern service oriented systems leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS) and C# .Net Core.    
 * Proficient in developing Angular (MEAN) and React.js (MERN) Stack SPA Applications with Backends Express.js and NestJS Backend.     
-* Proficient in developing Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
 * Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices.     
-* Strong grasp of JavaScript (Frontend + Backend), C#, TypeScript, SQL, XML, Python, C++, SCSS and XML language. GraphQL, ASP.NET MVC and Express middleware development.        
-      
 
 ### Work Experience    
-**Senior Software Engineer - AION Digital (July 2021 - Present)**     
-Working on revamping KFHK bank infrastructure and all applications. I've worked on implementing application wide audit logging microservice on backend using express.js framework and introduced sensitive information masking enging. On the front end I've developed Admin portal from scratch using Angular framework and worked on implementing KYC video call verification feature using React.js and mirrorfly integration. Some of the technologies I've worked on are Node.js, NestJS framework, Docker, SQL Server, Redis, Angular framework and React.js.           
+**Full Stack Developer - Bettersource (July 2021 - Jan 2022)**     
+I worked as full stack javascript engineer on developing digital transformation solution for a client and also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).     
+**Work summary:**    
+- Bootstrapped and Implemented front end of the Administrative application from scratch
+- Designed and implemented audit logging to be used for all microservices
+- Designed and implemented strategy for securing sensitive client data.
+- Responsible for writing and managing database migrations.
+- Deploying to docker containers and CI/CD         
 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**     
-Providing my services as a Senior Software Engineer (.Net) at ZEPCOM. At ZEPCOM, My work includes working on F4Tech's Data-Driven Natural Resource Management Solutions. F4Tech is one of the leading names in Natural Resources Management solutions providers. I, with a team of specialized developers, are responsible for their database, web portals and web applications development and maintenance.     
+Providing my services as a Senior Software Engineer (.Net) at ZEPCOM. At ZEPCOM, My work included working on F4Tech's Data-Driven Natural Resource Management Solutions. F4Tech is one of the leading names in Natural Resources Management solutions providers. I, with a team of specialized developers, are responsible for their database, web portals and web applications development and maintenance.     
         
 **Software Engineer - Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Aug 2020)**    
 My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about various application architecture patterns and best practices.      
@@ -28,7 +30,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
  **Bachelors in Computer Science**    
     Virtual University Of Pakistan 2019-2023    
  **Bachelors in Computer Science**    
-    PAF KIET 2015-2018 (Abandoned due to schedule and family issues)    
+    PAF KIET 2015-2018 (Had to abandon due to scheduling issues)    
  **Intermediate in Computer Science**    
     SM Govt. Science College 2013-2015    
  **Matriculation**    
@@ -40,38 +42,43 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/oisee/apis-and-microservices)      
 * [Data Visualization Certification](https://www.freecodecamp.org/certification/oisee/data-visualization)      
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)       
-         
+
+
+### Areas of Expertise      
+* Multi-tenant Systems (Transformed on-premise systems to cloud hosted software services and experience in adding multi-tenancy to system based on scope required scopes)       
+* Geographical Information Systems (ESRI ArcGIS)        
+* Loan Origination Systems (Ellie Mae Encompass, BytePro)        
+* Banking Systems (Had oppurtunity to enhance the backend+frontend of Kuwait's largest bank)        
+* Risk Analysis Systems (Worked on developing KYC processes and implemented business rules in a product)         
+* Ecommerce Applications (using Shopify)    
+* Data warehouse Applications and ETL Tools Development      
+* Enterprise Data Management systems built and deployed using .Net Microsoft technologies on-premise as well as cloud infrastructure.     
+* Health Care Systems built on OpenEHR and FHIR Specifications      
 
 ### Front End    
+* Angular Framework      
 * React.js     
-* Angular Framework     
-* TypeScript, JavaScript - NPM, Yarn, Webpack       
-* GraphQL      
-* Redux, RxJS - (Data Management)      
-* jQuery     
-* Bootstrap, Material UI, DevExtreme UI components    
-* D3.js (Data Visualization)
+* TypeScript, JavaScript - NPM, Yarn, Webpack      
+* GraphQL            
+* Libraries: Bootstrap, Material UI, DevExtreme UI components, D3.js (Data Visualization), jQuery, Redux, RxJS - (Data Management)        
 * HTML Canvas     
 * Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design       
 * Shopify Themes, Liquid Templates and StoreFront API     
 
 ### Back End    
-* C#, .NET - Entity Framework, EF Core, ASP.NET MVC, Web Forms, Windows Form, WPF, WCF Web Services, Blazor         
-* Node.js - Express.js, Apollo, NestJS     
+* C#, .NET - ASP.NET MVC, Web Forms, Windows Form, WPF, WCF Web Services, Blazor         
+* Node.js - Express.js, NestJS     
 * NoSQL - MongoDB, Firebase FireStore, Redis         
 * WebRTC, Socket.io, SignalR      
 * SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite     
 * Message Brokers - RabbitMQ     
-* Authentication - OAuth, JWT, ASP.NET Core Identity            
+* Authentication - OAuth, JWT, Identity on .Net        
 * Python - Experience in scripting and task automation      
-* Go - Experience in building background jobs and CLI services     
+* Experienced in developing API using REST, SOAP & gRPC protocol      
 
 ### Project Management Skill            
 * Experienced in gathering requirements and translating technical information from stakeholders to developer teams             
-* Experience and Insight for tracking changes down the line that may shift the time frame of the project, communicating delays and adjusting timeframe combining technical and domain specific knowledge      
-* Experience in planning sprints such that the workload is evenly distributed throughout development cycle      
 * Team collaboration experience Azure DevOps, GitHub for Teams and Atlassian JIRA     
-
 
 ### Security And Quality Assurance Testing    
 * Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development         
@@ -83,32 +90,19 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 ### DevOps    
 * Windows Server (Task Scheduling / PowerShell)        
 * Linux Command Line & Bash Scripting     
-* Experience in Application Deployment to Heroku, Windows Server, Linux, Azure      
+* Experience in Application Deployment to Heroku, Windows Server, Linux, Azure and Kubernetes      
 * Docker        
 * Version Control using Git, TFS, SVN     
 
 
-### Areas of Expertise      
-* Health Care Systems built on OpenEHR and FHIR Specifications        
-* Multi-tenant Systems        
-* Geographical Information Systems (ESRI ArcGIS)        
-* Loan Origination Systems (Ellie Mae Encompass, BytePro)        
-* Fintech Systems (Bank, Loan Origination Systems, Risk Analysis Systems)           
-* Enterprise Data Management Systems            
-* Realtime high availability fault-tolerant systems      
-* Ecommerce Applications (using Shopify)    
-* Data warehouse Applications and ETL Tools Development      
-
-
 ### Architectural & Development Experience in using     
 * Microservices Architecture      
-* Domain Driven Design            
+* Domain Driven Design        
 * Event Driven Architecture     
-* MVC, MVVM      
 * Test Driven Development       
 * Object Oriented Programming         
 * Functional Programming        
-* Design patterns (CQRS, Inversion of Control etc.)      
+* Design & Behavorial patterns (CQRS, Inversion of Control, MVC, MVVM etc.)      
 
 
 ## Recent Projects      
@@ -133,11 +127,14 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Developed spatial projections and calculations services that power the backend of F4Tech System.      
 * Developed ArcGIS Rest communication library from scratch and open sourced it. [ArcGIS-Rest-DotNet](https://github.com/osamaishtiaq/arcgis-rest-dotnet)      
 
-
 **RnB Subscription Build your box application**     
 * Build your subscription and get your RollinNBowlin products delivered at home at your desired monthly/weekly plan    
 * Custom developed with Shopify Ecommerce, liquid templates, integrated Shopify admin API, stripes subscription and Hangfire jobs for order renewal and email notifications    
 
+**Multiprac Infection Contraol - Ocean Health Systems**     
+* Worked on adding new features into the system for importing practitioners and registeration into national records      
+* Responsible for maintaining all deployed instances and working on feature requests     
+* Worked on updating code as per OpenEHR specifications and also updating SOAP requests, authentication strategies and certificates          
 
 **Troopsie Grocery Delivery**    
 * Multi vendor and Multi store Ecommerce website built using React.js and Shopify Backend     
@@ -148,21 +145,13 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Node.js, Express.js and Shopify Admin API used for backend.     
 * React.js and Redux used for Frontend    
 
-
-**iSongs Music Search Engine**    
-* Music Search Engine built from scratch with Node.js and Elastic Search      
-* Deployed on On-premise infrastructure and optimized to handle large traffic.    
-
-
 **Encompass PSDK Plugin for Arivs Mortgages**     
 * Encompass LOS Plugin for Arivs Mortgages. Facilitates document sending, Loan creation and other common tasks for Arivs Loan Officer     
 * Developed using C# Windows Form and Ellie Mae Encompass SDK         
 
-
 **Building Inspection System**     
 * Developed complete building inspection and inventory management system. Being used by JamatKhanas all over the world for inspection and management of large buildings.         
 * Built with Angular 8 Framework, SQL Server, Azure, SSIS Reporting and ASP.Net Core         
-
 
 **Data Warehousing and ETL Tool for Encompass DataConnect**       
 * Built Data Warehousing and ETL Tool for EllieMae DataConnect     
