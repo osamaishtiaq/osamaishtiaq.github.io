@@ -1,29 +1,19 @@
 ## **Osama Ishtiaq**
- **osamaishtiaqdev@gmail.com +923002770524**    
+ **[osamaishtiaqdev@gmail.com](mailto:osamaishtiaqdev@gmail.com) [+923002770524](https://wa.me/923002770524)**    
  **Languages : English (Fluent)**    
-
-### Professional Summary      
-* Proficient in developing modern service oriented systems leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS) and C# .Net Core.    
-* Proficient in developing Angular (MEAN) and React.js (MERN) Stack SPA Applications with Backends Express.js and NestJS Backend.     
-* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices.     
+ **Location: Rotterdam, The Netherlands**    
 
 ### Work Experience    
 **Full Stack Developer - Bettersource (July 2021 - Jan 2022)**     
 I worked as full stack javascript engineer on developing digital transformation solution for a client and also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).     
-**Work summary:**    
-- Bootstrapped and Implemented front end of the Administrative application from scratch
-- Designed and implemented audit logging to be used for all microservices
-- Designed and implemented strategy for securing sensitive client data.
-- Responsible for writing and managing database migrations.
-- Deploying to docker containers and CI/CD         
 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**     
 Providing my services as a Senior Software Engineer (.Net) at ZEPCOM. At ZEPCOM, My work included working on F4Tech's Data-Driven Natural Resource Management Solutions. F4Tech is one of the leading names in Natural Resources Management solutions providers. I, with a team of specialized developers, are responsible for their database, web portals and web applications development and maintenance.     
         
-**Software Engineer - Viftech Solutions (Pvt.) Ltd / Awesome Technologies Inc. (Nov 2018-Aug 2020)**    
+**Software Engineer - Viftech Solutions (Pvt.) Ltd (Nov 2018 - Aug 2020)**    
 My role at Viftech Solutions is primarily that of a Full Stack .Net Developer however I've worked on, developed and improved upon many products like custom ETL Tools, Data Warehousing solutions, Loan Origination Systems like Encompass and BytePro Enterprise, Mortgage system plugins, Building Inspection systems, Shopify Ecommerce websites and Shopify custom apps and themes development, Managements Systems, Information Systems, Chatbots and many more diverse range of software products. Here I've learned and worked in various mobile and web development technologies like Angular, Azure Devops, .Net Core, SSRS Reporting and many more and learned about various application architecture patterns and best practices.      
 
-**Full Stack Developer - Ozarion Software Solutions (Apr 2015/Aug 2018)**    
+**Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**    
 At Ozarion Software solutions I performed my services as a Full Stack Node.js developer specializing in React.js, Express.js, MongoDb, TypeScript and Python. My primary role was developing, testing and enhancing RESTful web APIs in Node.js and developing modern web applications using React.js with Redux. I also worked on C# Windows Form desktop applications, provided deployment services to the team and worked on ReactNative mobile applications.      
 
 ### Education    
@@ -52,7 +42,6 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Risk Analysis Systems (Worked on developing KYC processes and implemented business rules in a product)         
 * Ecommerce Applications (using Shopify)    
 * Data warehouse Applications and ETL Tools Development      
-* Enterprise Data Management systems built and deployed using .Net Microsoft technologies on-premise as well as cloud infrastructure.     
 * Health Care Systems built on OpenEHR and FHIR Specifications      
 
 ### Front End    
@@ -61,58 +50,50 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * TypeScript, JavaScript - NPM, Yarn, Webpack      
 * GraphQL            
 * Libraries: Bootstrap, Material UI, DevExtreme UI components, D3.js (Data Visualization), jQuery, Redux, RxJS - (Data Management)        
-* HTML Canvas     
+* WebGL, Canvas, WebRTC     
 * Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design       
 * Shopify Themes, Liquid Templates and StoreFront API     
 
 ### Back End    
-* C#, .NET - ASP.NET MVC, Web Forms, Windows Form, WPF, WCF Web Services, Blazor         
-* Node.js - Express.js, NestJS     
-* NoSQL - MongoDB, Firebase FireStore, Redis         
-* WebRTC, Socket.io, SignalR      
+* Node.js - Express.js, NestJS, Socket.io, Apollo     
+* C#, .NET - ASP.NET MVC, Web Forms, Windows Form, WCF Services, Blazor, SignalR      
 * SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite     
+* NoSQL - MongoDB, Firebase FireStore, Redis                
+* ORM - Entity framework (.Net), Knex.js, TypeORM and Mongoose on Node.js       
 * Message Brokers - RabbitMQ     
 * Authentication - OAuth, JWT, Identity on .Net        
 * Python - Experience in scripting and task automation      
-* Experienced in developing API using REST, SOAP & gRPC protocol      
-
-### Project Management Skill            
-* Experienced in gathering requirements and translating technical information from stakeholders to developer teams             
-* Team collaboration experience Azure DevOps, GitHub for Teams and Atlassian JIRA     
+* Experienced in developing API using REST, GraphQL, SOAP & gRPC protocol      
 
 ### Security And Quality Assurance Testing    
-* Experience in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development         
+* Experience in Unit Testing, Functional Testing and Test Driven Development         
 * Node.js - Passport.js (Authentication), Helmet.js (Security), Chai, Mocha      
 * .Net C# NUnit tests     
 * Puppeteer Browser Automation and Testing      
 
-
 ### DevOps    
-* Windows Server (Task Scheduling / PowerShell)        
+* Windows Server (IIS, On-premise deployments and application maintenance experience)        
 * Linux Command Line & Bash Scripting     
-* Experience in Application Deployment to Heroku, Windows Server, Linux, Azure and Kubernetes      
-* Docker        
+* Experience in Application Deployment to Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers and Kubernetes            
 * Version Control using Git, TFS, SVN     
-
 
 ### Architectural & Development Experience in using     
 * Microservices Architecture      
-* Domain Driven Design        
 * Event Driven Architecture     
 * Test Driven Development       
 * Object Oriented Programming         
 * Functional Programming        
 * Design & Behavorial patterns (CQRS, Inversion of Control, MVC, MVVM etc.)      
 
-
 ## Recent Projects      
 **KFHK Customer Onboarding system**     
-* Worked on implementing the frontend using Angular framework      
+* Bootstrapped and Implemented front end of the Administrative application from scratch          
 * Worked on implementing KYC Application module using React.js and mirrorfly       
 * Worked on  integrating mirrorfly api for video call customer identification and KYC      
 * Worked on implementing backend using Node.js and developed realtime KYC verification by reading video call streams       
 * Worked on implementing backend Apis using NestJS framework      
 * Deployment and DevOps automation, worked on writing Dockerfiles and deployment scrips using shell         
+* Designed and implemented strategy for securing sensitive client data.      
 
 **KFHK Retail and Admin Banking Portal**       
 * Worked on implementing secure login and customer registration strategies using auth flows         
@@ -160,7 +141,8 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Web portal with Realtime information Dashboard        
 * Build with SQL Server, Custom C# Batch processes for data processing and C# MVC for web portal    
 
+### Personal Interests      
+* Playing Guitar, Watching FRIENDS, Astrophysics, Playing Arcade games, Watching anime (Demon slayer, Attack on titan, Full metal alchemist), Working out      
 
 ### Links        
- [GitHub](https://github.com/osamaishtiaq), [LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)
- 
+ [GitHub](https://github.com/osamaishtiaq), [LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)      
