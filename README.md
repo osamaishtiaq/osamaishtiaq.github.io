@@ -35,22 +35,22 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 
 ### Areas of Expertise      
-* Multi-tenant Systems (Transformed on-premise systems to cloud hosted software services and experience in adding multi-tenancy to system based on scope required scopes)       
+* Multi-tenant Systems (Worked on transforming legacy systems to cloud hosted software-as-services)      
 * Geographical Information Systems (ESRI ArcGIS)        
 * Loan Origination Systems (Ellie Mae Encompass, BytePro)        
 * Banking Systems (Had oppurtunity to enhance the backend+frontend of Kuwait's largest bank)        
 * Risk Analysis Systems (Worked on developing KYC processes and implemented business rules in a product)         
 * Ecommerce Applications (using Shopify)    
 * Data warehouse Applications and ETL Tools Development      
-* Health Care Systems built on OpenEHR and FHIR Specifications      
+* Health Care Systems built on OpenEHR Specifications       
 
 ### Front End    
 * Angular Framework      
 * React.js     
 * TypeScript, JavaScript - NPM, Yarn, Webpack      
-* GraphQL            
-* Libraries: Bootstrap, Material UI, DevExtreme UI components, D3.js (Data Visualization), jQuery, Redux, RxJS - (Data Management)        
-* WebGL, Canvas, WebRTC     
+* GraphQL      
+* Libraries: D3.js (Data Visualization), jQuery, Redux, RxJS       
+* WebGL, Canvas, WebRTC      
 * Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design       
 * Shopify Themes, Liquid Templates and StoreFront API     
 
@@ -117,19 +117,6 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Responsible for maintaining all deployed instances and working on feature requests     
 * Worked on updating code as per OpenEHR specifications and also updating SOAP requests, authentication strategies and certificates          
 
-**Troopsie Grocery Delivery**    
-* Multi vendor and Multi store Ecommerce website built using React.js and Shopify Backend     
-* Users can select products from many stores in their area and get them delivered at their doorsteps    
-* A data scrapper is implemented to scrap products from many stores and create products    
-* Shopify tags and smart collections are then used to smartly create stores in different regions based on area code     
-* Fluid user experience because of React.js Single Page Application UI.     
-* Node.js, Express.js and Shopify Admin API used for backend.     
-* React.js and Redux used for Frontend    
-
-**Encompass PSDK Plugin for Arivs Mortgages**     
-* Encompass LOS Plugin for Arivs Mortgages. Facilitates document sending, Loan creation and other common tasks for Arivs Loan Officer     
-* Developed using C# Windows Form and Ellie Mae Encompass SDK         
-
 **Building Inspection System**     
 * Developed complete building inspection and inventory management system. Being used by JamatKhanas all over the world for inspection and management of large buildings.         
 * Built with Angular 8 Framework, SQL Server, Azure, SSIS Reporting and ASP.Net Core         
@@ -142,7 +129,8 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * Build with SQL Server, Custom C# Batch processes for data processing and C# MVC for web portal    
 
 ### Personal Interests      
-* Playing Guitar, Watching FRIENDS, Astrophysics, Playing Arcade games, Watching anime (Demon slayer, Attack on titan, Full metal alchemist), Working out      
+* Playing Guitar, Watching FRIENDS, Astrophysics, Playing Arcade games, Watching anime (Demon slayer, Attack on titan, Full metal alchemist), Working out
 
 ### Links        
- [GitHub](https://github.com/osamaishtiaq), [LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)      
+ [GitHub](https://github.com/osamaishtiaq), [LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)     
+ 
