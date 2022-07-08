@@ -35,7 +35,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)       
 
 ### Areas of Expertise      
-* Web3 and Blockchain (Building an NFT marketplace for Merit circle)
+* Web3 and Blockchain (Building an NFT marketplace competing OpenSea for Merit circle)     
 * Multi-tenant Systems (Worked on transforming legacy systems to cloud hosted SaaS with auto scaling)      
 * Geographical Information Systems (ESRI ArcGIS)        
 * Loan Origination Systems (Ellie Mae Encompass, BytePro)        
