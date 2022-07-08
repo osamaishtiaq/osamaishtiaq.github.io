@@ -4,7 +4,7 @@
  **Location: Rotterdam, The Netherlands**    
 
 ### Work Experience    
-**Software Engineer - DEPT® March 2022 - Present**     
+**Software Engineer - DEPT® (March 2022 - Present)**     
 Currently working on 1. Building an NFT Marketplace as a backend engineer working with node.js, web3, blockchain, RPC, NestJs, GraphQL and AWS. And 2. Maintaining and enhancing the software system of one of the Netherland's top loan providers/facilitators by working as a self-guided full stack engineer. Responsibilities include quality and performance enhancements, refactoring code and making sure mendatory test coverage and requested features implementation.     
 
 **Full Stack Developer - Bettersource (July 2021 - Jan 2022)**     
@@ -34,7 +34,6 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * [Data Visualization Certification](https://www.freecodecamp.org/certification/oisee/data-visualization)      
 * [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)       
 
-
 ### Areas of Expertise      
 * Web3 and Blockchain (Building an NFT marketplace for Merit circle)
 * Multi-tenant Systems (Worked on transforming legacy systems to cloud hosted SaaS with auto scaling)      
@@ -56,7 +55,7 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 
 ### Back End    
 * Node.js - Express.js, NestJS, WebSocket, GraphQL Apollo     
-* C#, .NET - ASP.NET MVC, Web Forms, Windows Form, WCF Services, SignalR      
+* .NET C# - ASP.NET MVC, Web Forms, Windows Form, WCF Services, SignalR      
 * SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite     
 * NoSQL - MongoDB, Firebase FireStore, Redis    
 * ORM - Entity framework (.Net), Knex.js, TypeORM and Mongoose on Node.js       
@@ -70,10 +69,11 @@ At Ozarion Software solutions I performed my services as a Full Stack Node.js de
 * .Net C# NUnit tests     
 * Cypress Automated E2E testing      
 
-### DevOps    
+### Infrastructure experience / Devops    
 * Windows Server (IIS, On-premise deployments and application maintenance experience)      
 * Experience in Application Deployment to Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers and Kubernetes            
 * Version Control using Git, TFS, SVN     
+* Currently doing AWS Developer Certification (in-process) 
 
 ### Architectural & Development Experience in using     
 * Microservices Architecture      
