@@ -10,7 +10,7 @@ Location: Rotterdam, The Netherlands
 Started working as a Senior Backend Developer in Omnibus channel, GrandVision
 
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**  
-Currently working on 1. Building an NFT Marketplace as a backend engineer working with node.js, web3, blockchain, RPC, NestJs, GraphQL and AWS. And 2. Maintaining and enhancing the software system of one of the Netherland’s top loan providers/facilitators by working as a self-guided full stack engineer. Responsibilities include quality and performance enhancements, refactoring code and making sure mendatory test coverage and requested features implementation.
+Worked on Building an NFT Marketplace [Sphere](https://meritcircle.io/) as a senior backend engineer. Technologies I worked with included node.js, web3, blockchain, RPC, NestJs, GraphQL and AWS. Also worked on [Aymz](https://www.aymz.com/) who are one of Netherland’s corporate loan providers/facilitators where responsiblities included quality, logging, observability and performance enhancements.
 
 **Full Stack Developer - Bettersource (July 2021 - Jan 2022)**  
 I worked as full stack javascript engineer on developing digital transformation solution for a client and also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
@@ -42,15 +42,15 @@ Karachi Board of Secondary Education 2012-2013
 - [Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)
 
 ### **Areas of Expertise**
-
-- Web3 and Blockchain (Building an NFT marketplace competing OpenSea for Merit circle)
-- Multi-tenant Systems (Worked on transforming legacy systems to cloud hosted SaaS with auto scaling)
+- Fintech
+     - Banking Systems (Had oppurtunity to digitally transform backend+frontend of KFHK who are Kuwait’s largest bank)
+     - Web3 and Blockchain (Built an NFT marketplace to compete with OpenSea)
+     - Experienced working with Loan Origination Systems (Ellie Mae Encompass, BytePro)
 - Geographical Information Systems (ESRI ArcGIS)
-- Loan Origination Systems (Ellie Mae Encompass, BytePro)
-- Banking Systems (Had oppurtunity to enhance the backend+frontend of Kuwait’s largest bank)
+- Multi-tenant Systems (Worked on transforming legacy systems to cloud based SaaS with auto scaling)
 - Ecommerce Applications (using Shopify)
-- Data warehouse Applications and ETL Tools Development
-- Health Care Systems built on OpenEHR Specifications
+- Custom Export Transform Load (ETL Tools) Development using SQL and other datasources
+- Health Care Systems built on OpenEHR and FHIR Specifications
 
 ### **Front End**
 
@@ -82,10 +82,9 @@ Karachi Board of Secondary Education 2012-2013
 
 ### **Infrastructure experience / Devops**
 
-- Windows Server (IIS, On-premises deployments and application maintenance experience)
 - Experience in Application Deployment to Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers and Kubernetes
+- Windows Server (IIS, On-premises deployments and application maintenance experience)
 - Version Control using Git, TFS, SVN
-- Currently doing AWS Developer Certification (in-process)
 
 ### **Architectural & Development Experience in using**
 
@@ -96,18 +95,25 @@ Karachi Board of Secondary Education 2012-2013
 - Functional Programming
 - Design & Behavorial patterns (CQRS, Inversion of Control, MVC etc.)
 
-## **Recent Projects**
+## **Recent Projects**    
 
-**KFHK Customer Onboarding system**
+**GrandVision CX&D Platform**
+- Worked on AAB (Advanced appointment booking) that integrates with different appointment booking systems across more than 11 banners in Europe.
+- Introduced component tests and platform wide logging and observability improvements
+- Worked on introducing new graphQL queries and mutation in the federated supergraph. Also introduced new azure functions and services for needed features.
+- Collaborated in architectural and business discussions as a senior backend engineer
 
-- Worked on integrating mirrorfly api for identification via video call
-- Designed and implemented real-time video KYC verification of signing users
-- Worked on implementing backend Apis using NestJS framework
+**Sphere NFT Marketplace by Merit Circle**
+- Worked on developing the backend of Sphere which is a NFT marketplace similiar to OpenSea.
+- Integration with Ethereum and Solana Blockchain
+- Developed Backend GraphQL API
 
 **Kuwait Finance House Retail and Admin Banking Portal Web Apps**
 
 - Implemented security, audit logging and database integrity strategies.
 - Implemented Admin Portal frontend and backend application.
+- Designed and implemented real-time video KYC verification of signing users
+- Worked on implementing backend Apis using NestJS framework
 
 **F4Tech’s ArcGIS Resource Allocation BI Tool and Management System**
 
@@ -129,10 +135,6 @@ Karachi Board of Secondary Education 2012-2013
 - Developed complete building inspection and inventory system. Being used by JamatKhanas all over the world for inspection and management of large buildings.
 - Built with Angular 8 Framework, SQL Server, Azure, SSIS Reporting and ASP.Net Core
 
-**Data Warehousing and ETL Tool for Encompass DataConnect**
-
-- Built Data Warehousing and ETL Tool for EllieMae DataConnect
-- Built an algorithm that reads ElliMae DataConnect mappings domain model path and auto creates relationships of each field and table
 
 ### **Personal Interests**
 
