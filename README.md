@@ -52,47 +52,44 @@ Karachi Board of Secondary Education 2012-2013
 - Custom Export Transform Load (ETL Tools) Development using SQL and other datasources
 - Health Care Systems built on OpenEHR and FHIR Specifications
 
-### **Front End**
 
+### **Back End**
+
+- Node.js TypeScript - Express, NestJS, Apollo GraphQL, Socket programming
+- .NET C# - ASP.NET MVC, Web Forms, Windows Form, WCF Services, SignalR
+- SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite
+- NoSQL - MongoDB, Firebase FireStore, Redis
+- ORM - Entity framework (.Net) and Knex.js, TypeORM, Sequelize, Mongoose on Node.js
+- RabbitMQ, SQS, Azure Service bus
+- OAuth, JWT, Identity on .Net
+- Azure functions, Kubernetes, Docker and Bash
+- Experienced in developing API using REST, GraphQL, SOAP & gRPC protocol
+
+### **Front End**
+- React.js    
 - Angular Framework
-- React.js
-- TypeScript, JavaScript
 - GraphQL
 - Libraries: D3.js (Data Visualization), jQuery, Redux, RxJS
 - WebGL, Canvas, WebRTC
 - Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design
 
-### **Back End**
-
-- Node.js - Express.js, NestJS, WebSocket, GraphQL Apollo
-- .NET C# - ASP.NET MVC, Web Forms, Windows Form, WCF Services, SignalR
-- SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite
-- NoSQL - MongoDB, Firebase FireStore, Redis
-- ORM - Entity framework (.Net), Knex.js, TypeORM and Mongoose on Node.js
-- Message Brokers - RabbitMQ, SQS
-- Authentication - OAuth, JWT, Identity on .Net
-- Experienced in developing API using REST, GraphQL, SOAP & gRPC protocol
-
-### **Security, Testing and Quality Assurance**
+### **Security and Testing**
 
 - Experience in Unit Testing, Functional Testing and Test-Driven Development
 - Node.js - Passport.js (Authentication), Helmet.js (Security), Jest
 - .Net C# NUnit tests
-- Cypress Automated E2E testing
+- E2E component testing
 
 ### **Infrastructure experience / Devops**
 
-- Experience in Application Deployment to Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers and Kubernetes
+- Experience in Application Deployment on Azure, AWS, Heroku. Also custom infrastructure using Nginx (Linux), IIS (Windows Server), Docker and Kubernetes
 - Windows Server (IIS, On-premises deployments and application maintenance experience)
 - Version Control using Git, TFS, SVN
 
 ### **Architectural & Development Experience in using**
-
 - Microservices Architecture
 - Event Driven Architecture
-- Test Driven Development
 - Object Oriented Programming
-- Functional Programming
 - Design & Behavorial patterns (CQRS, Inversion of Control, MVC etc.)
 
 ## **Recent Projects**    
@@ -139,7 +136,7 @@ Karachi Board of Secondary Education 2012-2013
 ### **Personal Interests**
 
 - Music (Learning Guitar)
-- TV Shows (The Office, FRIENDS, Demon slayer, Attack on titan, Full metal alchemist)
+- TV Shows (The Office, Attack on titan, Dragon Ball franchise)
 - Algorithms and Competitive programming
 - Combat Sports (Training in Kickboxing)
 
