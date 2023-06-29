@@ -27,7 +27,7 @@ At Ozarion Software solutions I worked as a Full Stack Node.js developer special
 ### **Education**
 
 **Bachelors in Computer Science**  
-PAF KIET 2015-2018 (Had to abandon due to scheduling issues with work)  
+PAF KIET 2015-2018
 **Intermediate in Computer Science**  
 SM Govt. Science College 2013-2015  
 **Matriculation**  
@@ -42,16 +42,16 @@ Karachi Board of Secondary Education 2012-2013
 - [FCC Information Security and Quality Assurance Certification, 2018](https://www.freecodecamp.org/certification/oisee/information-security-and-quality-assurance)
 
 ### **Areas of Expertise**
+
 - Fintech
-     - Banking Systems (Had oppurtunity to digitally transform backend+frontend of KFHK who are Kuwait’s largest bank)
-     - Web3 and Blockchain (Built an NFT marketplace to compete with OpenSea)
-     - Experienced working with Loan Origination Systems (Ellie Mae Encompass, BytePro)
+  - Banking Systems (Had oppurtunity to digitally transform backend+frontend of KFHK who are Kuwait’s largest bank)
+  - Web3 and Blockchain (Built an NFT marketplace to compete with OpenSea)
+  - Experienced working with Loan Origination Systems (Ellie Mae Encompass, BytePro)
 - Geographical Information Systems (ESRI ArcGIS)
 - Multi-tenant Systems (Worked on transforming legacy systems to cloud based SaaS with auto scaling)
 - Ecommerce Applications (using Shopify)
 - Custom Export Transform Load (ETL Tools) Development using SQL and other datasources
 - Health Care Systems built on OpenEHR and FHIR Specifications
-
 
 ### **Back End**
 
@@ -66,7 +66,8 @@ Karachi Board of Secondary Education 2012-2013
 - Experienced in developing API using REST, GraphQL, SOAP & gRPC protocol
 
 ### **Front End**
-- React.js    
+
+- React.js
 - Angular Framework
 - GraphQL
 - Libraries: D3.js (Data Visualization), jQuery, Redux, RxJS
@@ -87,20 +88,23 @@ Karachi Board of Secondary Education 2012-2013
 - Version Control using Git, TFS, SVN
 
 ### **Architectural & Development Experience in using**
+
 - Microservices Architecture
 - Event Driven Architecture
 - Object Oriented Programming
 - Design & Behavorial patterns (CQRS, Inversion of Control, MVC etc.)
 
-## **Recent Projects**    
+## **Recent Projects**
 
 **GrandVision CX&D Platform**
+
 - Worked on AAB (Advanced appointment booking) that integrates with different appointment booking systems across more than 11 banners in Europe.
 - Introduced component tests and platform wide logging and observability improvements
 - Worked on introducing new graphQL queries and mutation in the federated supergraph. Also introduced new azure functions and services for needed features.
 - Collaborated in architectural and business discussions as a senior backend engineer
 
 **Sphere NFT Marketplace by Merit Circle**
+
 - Worked on developing the backend of Sphere which is a NFT marketplace similiar to OpenSea.
 - Integration with Ethereum and Solana Blockchain
 - Developed Backend GraphQL API
@@ -131,7 +135,6 @@ Karachi Board of Secondary Education 2012-2013
 
 - Developed complete building inspection and inventory system. Being used by JamatKhanas all over the world for inspection and management of large buildings.
 - Built with Angular 8 Framework, SQL Server, Azure, SSIS Reporting and ASP.Net Core
-
 
 ### **Personal Interests**
 
