@@ -23,11 +23,11 @@ My role at Awesome Technologies was .Net Developer working on both frontend and 
 
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**  
 At Ozarion Software solutions I worked as a Full Stack Node.js developer specializing in MERN Stack (React.js, Express.js, Mongo DB), TypeScript and Python. My primary role was developing, testing and enhancing REST web APIs in Node.js and developing frontend web applications using React.js.
-
+    
 ### **Education**
 
 **Bachelors in Computer Science**  
-PAF KIET 2015-2018
+PAF KIET 2015-2018    
 **Intermediate in Computer Science**  
 SM Govt. Science College 2013-2015  
 **Matriculation**  
