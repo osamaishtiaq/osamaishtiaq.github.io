@@ -12,14 +12,14 @@ Working as a Senior software engineer specializing on backend. I am working on G
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**  
 Worked on Building an NFT Marketplace [Sphere](https://meritcircle.io/) as a senior backend engineer. Technologies I worked with included node.js, web3, blockchain, RPC, NestJs, GraphQL and AWS. Also worked on [Aymz](https://www.aymz.com/) who are one of Netherland’s corporate loan providers/facilitators where responsiblities included quality, logging, observability and performance enhancements.
 
-**Full Stack Developer - Bettersource (July 2021 - Jan 2022)**  
-I worked as full stack javascript engineer on developing digital transformation solution for a client and also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
+**Senior Software Developer - Bettersource (July 2021 - Jan 2022)**  
+I worked as senior engineer on developing digital transformation solution for a client and also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**  
 At ZEPCOM, my work included working on F4Tech’s Natural Resources Management Solutions which leveraged GIS. Leading a team of 4 developers, I was responsible for their database, web portals and web applications development and maintenance.
 
 **Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**
-My role at Awesome Technologies was Full Stack .Net Developer and I developed products such as custom ETL Tools, Data Warehousing solutions, Building Inspection systems, Shopify eCommerce applications and worked on Loan and Mortgage Systems like Encompass and BytePro Enterprise and SSRS Reporting. I learned working with Microsoft Azure and leveraged many Azure services for the infrastructure here.
+My role at Awesome Technologies was .Net Developer working on both frontend and backend and I developed products such as custom ETL Tools, Data Warehousing solutions, Building Inspection systems, Shopify eCommerce applications and worked on Loan and Mortgage Systems like Encompass and BytePro Enterprise and SSRS Reporting. I learned working with Microsoft Azure and leveraged many Azure services for the infrastructure here.
 
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**  
 At Ozarion Software solutions I worked as a Full Stack Node.js developer specializing in MERN Stack (React.js, Express.js, Mongo DB), TypeScript and Python. My primary role was developing, testing and enhancing REST web APIs in Node.js and developing frontend web applications using React.js.
