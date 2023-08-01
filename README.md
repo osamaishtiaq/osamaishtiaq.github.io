@@ -7,7 +7,7 @@ Location: Rotterdam, The Netherlands
 ### **Work Experience**
 
 **Senior Backend Developer - GrandVision (October 2022 - Present)**  
-Working as a Senior software engineer specializing on backend. I am working on Grandvision/EssilorLuxottica's whitelabel ecommerce platform that has more than 12 banners in many european countries. Focusing on Working with Apollo GraphQL federation, CommerceTools, Docker, Kubernetes, Dell Boomi, AWS and Azure. I am responsible for Product domain and appointments domain and improving logging, observability and quality of the microservices with appropriate test coverage and code architecture.  
+Working as a Senior software engineer specializing on backend. I am working on Grandvision/EssilorLuxottica's whitelabel ecommerce platform that has more than 12 banners in many european countries. Focusing on Working with Apollo GraphQL federation, CommerceTools, Docker, Kubernetes, Dell Boomi, AWS and Azure. I am responsible for Product domain and appointments domain and improving logging, observability and quality of the microservices with appropriate test coverage and code architecture.
 
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**  
 Worked on Building an NFT Marketplace [Sphere](https://meritcircle.io/) as a senior backend engineer. Technologies I worked with included node.js, web3, blockchain, RPC, NestJs, GraphQL and AWS. Also worked on [Aymz](https://www.aymz.com/) who are one of Netherland’s corporate loan providers/facilitators where responsiblities included quality, logging, observability and performance enhancements.
@@ -18,8 +18,8 @@ I worked as full stack javascript engineer on developing digital transformation 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**  
 At ZEPCOM, my work included working on F4Tech’s Natural Resources Management Solutions which leveraged GIS. Leading a team of 4 developers, I was responsible for their database, web portals and web applications development and maintenance.
 
-**Software Engineer - Viftech Solutions (Pvt.) Ltd (Nov 2018 - Aug 2020)**
-My role at Viftech Solutions was Full Stack .Net Developer and I developed products such as custom ETL Tools, Data Warehousing solutions, Building Inspection systems, Shopify eCommerce applications and worked on Loan and Mortgage Systems like Encompass and BytePro Enterprise and SSRS Reporting. I learned working with Microsoft Azure and leveraged many Azure services for the infrastructure here.
+**Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**
+My role at Awesome Technologies was Full Stack .Net Developer and I developed products such as custom ETL Tools, Data Warehousing solutions, Building Inspection systems, Shopify eCommerce applications and worked on Loan and Mortgage Systems like Encompass and BytePro Enterprise and SSRS Reporting. I learned working with Microsoft Azure and leveraged many Azure services for the infrastructure here.
 
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**  
 At Ozarion Software solutions I worked as a Full Stack Node.js developer specializing in MERN Stack (React.js, Express.js, Mongo DB), TypeScript and Python. My primary role was developing, testing and enhancing REST web APIs in Node.js and developing frontend web applications using React.js.
