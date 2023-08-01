@@ -7,7 +7,7 @@ Location: Rotterdam, The Netherlands
 ### **Work Experience**
 
 **Senior Backend Developer - GrandVision (October 2022 - Present)**  
-Started working as a Senior Backend Developer in Omnibus channel, GrandVision
+Working as a Senior software engineer specializing on backend. I am working on Grandvision/EssilorLuxottica's whitelabel ecommerce platform that has more than 12 banners in many european countries. Focusing on Working with Apollo GraphQL federation, CommerceTools, Docker, Kubernetes, Dell Boomi, AWS and Azure. I am responsible for Product domain and appointments domain and improving logging, observability and quality of the microservices with appropriate test coverage and code architecture.  
 
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**  
 Worked on Building an NFT Marketplace [Sphere](https://meritcircle.io/) as a senior backend engineer. Technologies I worked with included node.js, web3, blockchain, RPC, NestJs, GraphQL and AWS. Also worked on [Aymz](https://www.aymz.com/) who are one of Netherland’s corporate loan providers/facilitators where responsiblities included quality, logging, observability and performance enhancements.
@@ -48,7 +48,7 @@ Karachi Board of Secondary Education 2012-2013
   - Web3 and Blockchain (Built an NFT marketplace to compete with OpenSea)
   - Experienced working with Loan Origination Systems (Ellie Mae Encompass, BytePro)
 - Geographical Information Systems (ESRI ArcGIS)
-- Multi-tenant Systems (Worked on transforming legacy systems to cloud based SaaS with auto scaling)
+- Multi-tenant Systems (Worked on transforming legacy systems to cloud based auto-scalable SaaS)
 - Ecommerce Applications (using Shopify)
 - Custom Export Transform Load (ETL Tools) Development using SQL and other datasources
 - Health Care Systems built on OpenEHR and FHIR Specifications
