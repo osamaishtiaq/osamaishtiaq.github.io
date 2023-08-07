@@ -16,13 +16,13 @@ Worked on Building an NFT Marketplace [Sphere](https://meritcircle.io/) as a sen
 I worked as senior engineer on developing digital transformation solution for a client and also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**  
-At ZEPCOM, my work included working on F4Tech’s Natural Resources Management Solutions which leveraged GIS. Leading a team of 4 developers, I was responsible for their database, web portals and web applications development and maintenance.
+At ZEPCOM, my work included working on F4Tech’s Natural Resources Management Solutions which leveraged GIS. Leading a team of 4 developers, I was responsible for their database, web portals, desktop and web applications development and maintenance.
 
 **Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**
-My role at Awesome Technologies was .Net Developer working on both frontend and backend and I developed products such as custom ETL Tools, Data Warehousing solutions, Building Inspection systems, Shopify eCommerce applications and worked on Loan and Mortgage Systems like Encompass and BytePro Enterprise and SSRS Reporting. I learned working with Microsoft Azure and leveraged many Azure services for the infrastructure here.
+My role at Awesome Technologies was .Net Developer working and I developed products such as custom ETL Tools, Data Warehousing solutions, Building Inspection systems, Shopify eCommerce applications and worked on Loan and Mortgage Systems like Encompass and BytePro Enterprise and SSRS Reporting. I worked on ASP.Net, MVC, WPF, Windows Form, WCF, Angular and .Net Core. I learned working with Microsoft Azure and leveraged many Azure services for the infrastructure here.
 
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**  
-At Ozarion Software solutions I worked as a Full Stack Node.js developer specializing in MERN Stack (React.js, Express.js, Mongo DB), TypeScript and Python. My primary role was developing, testing and enhancing REST web APIs in Node.js and developing frontend web applications using React.js.
+At Ozarion Software solutions I worked as a Full Stack developer specializing in MERN Stack (React.js, Express.js, Mongo DB), TypeScript and C# .Net. My primary role was developing, testing and enhancing REST web APIs in Node.js, Desktop Applications in WPF/Windows Form and developing frontend web applications using React.js and Angular.
     
 ### **Education**
 
@@ -56,7 +56,7 @@ Karachi Board of Secondary Education 2012-2013
 ### **Back End**
 
 - Node.js TypeScript - Express, NestJS, Apollo GraphQL, Socket programming
-- .NET C# - ASP.NET MVC, Web Forms, Windows Form, WCF Services, SignalR
+- .NET C# - ASP.NET MVC, Web Forms, WPF, Windows Form, WCF Services, SignalR
 - SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite
 - NoSQL - MongoDB, Firebase FireStore, Redis
 - ORM - Entity framework (.Net) and Knex.js, TypeORM, Sequelize, Mongoose on Node.js
@@ -74,16 +74,16 @@ Karachi Board of Secondary Education 2012-2013
 - WebGL, Canvas, WebRTC
 - Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design
 
-### **Security and Testing**
+### **Security, Testing, Logging and Observability**
 
 - Experience in Unit Testing, Functional Testing and Test-Driven Development
 - Node.js - Passport.js (Authentication), Helmet.js (Security), Jest
 - .Net C# NUnit tests
-- E2E component testing
+- Kibana
 
 ### **Infrastructure experience / Devops**
 
-- Experience in Application Deployment on Azure, AWS, Heroku. Also custom infrastructure using Nginx (Linux), IIS (Windows Server), Docker and Kubernetes
+- Experience in Application Deployment on Azure, AWS and  Google cloud. Also custom infrastructure using Nginx (Linux), IIS (Windows Server), Docker and Kubernetes
 - Windows Server (IIS, On-premises deployments and application maintenance experience)
 - Version Control using Git, TFS, SVN
 
