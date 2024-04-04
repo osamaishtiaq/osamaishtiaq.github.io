@@ -1,5 +1,5 @@
 ## **Osama Ishtiaq**
-Senior Software Engineer | TypeScript, Node.js, GraphQL, Docker
+Senior Software Engineer | TypeScript, Node.js, GraphQL, Docker    
 osamaishtiaqdev@gmail.com | +31651451919 | Rotterdam, Netherlands    
 
 ### Summary

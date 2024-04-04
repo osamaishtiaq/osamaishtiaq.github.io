@@ -1,5 +1,5 @@
 ## **Osama Ishtiaq**
-Senior Software Engineer | .Net C#, SQL, Azure, Angular
+Senior Software Engineer | .Net C#, SQL, Azure, Angular     
 osamaishtiaqdev@gmail.com | +31651451919 | Rotterdam, Netherlands    
 
 ### Summary

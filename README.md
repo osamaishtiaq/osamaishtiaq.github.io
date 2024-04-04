@@ -1,5 +1,5 @@
 ## **Osama Ishtiaq**
-Senior Software Engineer | TypeScript, Node.js, .Net C#
+Senior Software Engineer | TypeScript, Node.js, .Net C#    
 osamaishtiaqdev@gmail.com | +31651451919 | Rotterdam, Netherlands    
 
 ### Summary
