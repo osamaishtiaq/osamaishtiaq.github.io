@@ -1,20 +1,20 @@
 ## **Osama Ishtiaq**
-Senior Software Engineer | TypeScript, Node.js, .Net C#
+Senior Software Engineer | .Net C#, SQL, Azure, Angular
 osamaishtiaqdev@gmail.com | +31651451919 | Rotterdam, Netherlands    
 
 ### Summary
 Full Stack backend-focused developer experienced working with enterprise legacy systems as well as service-oriented distributed system using cloud infrastructure.   
 
 #### **Back End**
-- Node.js (TypeScript, NestJs, Express, Apollo)    
 - C# .NET (ASP.Net MVC, WebForms, WCF, WPF, SignalR)     
+- Node.js (TypeScript, NestJs, Express, Apollo)    
 - Databases: SQL Server (SSRS, ETL), PostgreSQL, MongoDB, Redis    
 - DevOps: Docker, Kubernetes, Terraform, IIS, AWS, Azure, GCP, Nginx, CI/CD, Git, TFS, SVN    
 - Architecture: SOLID Principles, Microservices, OOP, Dependency Injection, MVC, CQRS,    
 - Socket programming, SOAP, RPC, GraphQL    
 
 #### **Front End**
--  React.js (Next.js), Angular (RxJS, Material), Tailwind, JQuery, Bootstrap, D3.js    
+- Angular (RxJS, Material), React.js, Tailwind, JQuery, Bootstrap, D3.js    
 
 #### **Areas of Expertise**
 - eCommerce (CommerceTools, Shopify) 
