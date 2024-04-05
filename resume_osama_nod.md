@@ -16,12 +16,11 @@ Full Stack backend-focused developer experienced working with service-oriented d
 - React.js (Next.js), Angular (RxJS, Material), Tailwind, JQuery, Bootstrap, D3.js    
 
 #### **Areas of Expertise**
-- eCommerce (CommerceTools, Shopify)    
-- Fintech / Loan origination systems (EllieMae Encompass, BytePro)    
-  - Banking Systems (Worked on transforming Kuwait Finance House bank's legacy system to service-oriented architecture)    
+- eCommerce (CommerceTools, Shopify, Whitelabel Platforms)    
+- Fintech (Loan origination systems, Banking Systems, KYC, crypto space)    
 - ArcGIS    
 - OpenEHR, FHIR    
-- ArcGIS    
+- Multi-tenant and SaaS systems    
 
 ### **Work Experience**    
 **Senior Software Engineer - GrandVision (October 2022 - Present)**    
@@ -45,15 +44,15 @@ Full Stack backend-focused developer experienced working with service-oriented d
 - **Most Used Technologies**: Node.js, React.js, Express, D3.js, Azure (Functions, Service Bus, AD, DevOps), SQL Server, ArcGIS, Python, C# .Net,  Socket.io,    
     
 **Senior Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**    
-- Worked on developing data warehousing product that connected with different loan origination systems i.e. Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible.    
+- Worked on developing data warehousing product that connected with different loan origination systems i.e. EllieMae Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible.    
 **Most Used Technologies**: Angular, Express Node.js, React.js, C# .Net, Azure, SQL Server, SSRS     
+- Created website and ordering system for Rollin' n Bowlin' (USA).    
+**Most Used Technologies**: Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
     
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**    
 - Worked as a Full Stack developer specializing in MERN Stack (React.js, Express.js, Mongo DB) and TypeScript.    
-- Created website and ordering system for Rollin' n Bowlin' (USA).    
-**Most Used Technologies**: Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
 - Created Jamat-Khana building inspection system for a US client. This application allowed creating inspection templates using a drag-drop interface and then templates could be used to carry out building inspections. Also added tags, weight based scoring, reporting and notifications functionality.     
-**Most Used Technologies**: Nginx, Node.js, Python, ElasticSearch, MongoDB, React.js    
+**Most Used Technologies**: Nginx, Node.js, ElasticSearch, MongoDB, React.js, SQL    
     
 ### Other projects    
 **Kuwait Finance House Retail and Admin Banking Portal Web Apps**    
