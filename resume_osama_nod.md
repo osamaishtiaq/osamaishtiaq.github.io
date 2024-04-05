@@ -46,8 +46,8 @@ Full Stack backend-focused developer experienced working with service-oriented d
 **Senior Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**    
 - Worked on developing data warehousing product that connected with different loan origination systems i.e. EllieMae Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible.    
 **Most Used Technologies**: Angular, Express Node.js, React.js, C# .Net, Azure, SQL Server, SSRS     
-- Created website and ordering system for Rollin' n Bowlin' (USA).    
-**Most Used Technologies**: Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
+- Created website and order and fulfillment system for Rollin' n Bowlin' (USA). This system supported customized monthly/weekly product delivery, customising next boxes, meal suggestions etc (similar to hellofresh). Also supported payment subscriptions.     
+**Most Used Technologies**: ElasticSearch, Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
     
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**    
 - Worked as a Full Stack developer specializing in MERN Stack (React.js, Express.js, Mongo DB) and TypeScript.    
