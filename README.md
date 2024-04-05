@@ -28,15 +28,16 @@ Full Stack backend-focused developer experienced working with enterprise legacy 
 
 **Senior Software Engineer - GrandVision (October 2022 - Present)**    
 - Working on GrandVision's whitelabel ecommerce platform for 13+ banners in Euro region. My focus is on product domain (Product listing, indexing, imports, transformation) and appointment bookings (integration with 3rd party appointment booking systems across EU).    
-- Tech Used: TypeScript, Apollo GraphQL, Next.js, Microservices, Docker, KEDA, Terraform, Kibana, Grafana, Commercetools, Dell Boomi    
-
+**Most Used Technologies**: TypeScript, Apollo GraphQL, Next.js, Microservices, Docker, KEDA, Terraform, Kibana, Grafana, Commercetools    
+    
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**    
-- Developed NFT Marketplace [Sphere](https://meritcircle.io/) for Merit Circle that uses Etheruem and Solana blockchains. Tech Used: Nestjs, Web3, Algolia, GraphQL and Angular.    
-- Worked on corporate loan applications for [Aymz](https://www.aymz.com/). Implemented document management, reporting tool and misc features development. Tech Used .Net, Salesforce Connect, PostgreSQL, Heroku, SQL and React.js    
+- Developed NFT Marketplace [Sphere](https://meritcircle.io/) for Merit Circle that uses Etheruem and Solana blockchains.    
+**Most Used Technologies**: Nestjs, Web3, Algolia, GraphQL and Angular.    
+- Worked on corporate loan applications for [Aymz](https://www.aymz.com/). Implemented document management, reporting tool and misc features development. **Most Used Technologies**: .Net, Salesforce Connect, PostgreSQL, Heroku, SQL and React.js    
 
 **Senior Software Developer - Bettersource (July 2021 - Jan 2022)**    
 - Added features to Multiprac and other legacy health information system owned by Ocean Health Systems. Migrated on-premise windows server hosted systems to Microsoft Azure, added multi-tenancy and updated to SaaS. This allowed Ocean to provide services small and medium sized medical establishments based on subscription model.    
-- Tech Used: OpenEHR, FHIR, WCF, XML, SOAP, IIS, .Net C#, SQL, Azure Functions, Node.js, Angular     
+- **Most Used Technologies**: OpenEHR, FHIR, WCF, XML, SOAP, IIS, .Net C#, SQL, Azure Functions, Node.js, Angular     
 
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**    
 - Lead a team of 6 developers for F4Tech's Natural Resources Management System.    
@@ -44,16 +45,16 @@ Full Stack backend-focused developer experienced working with enterprise legacy 
 - Introduced event based processing to move off load scheduled batch processing jobs. This also allowed updates in GIS to be reflected in realtime.    
 - Implemented notifications system in Legacy admin application    
 - Created open source [ArcGIS-Rest-DotNet](https://github.com/osamaishtiaq/arcgis-rest-dotnet) wrapper for simplifying ArcGIS Api calls from .Net Http clients.    
-- Tech Used: Azure (Functions, Service Bus, AD, Pipelines), SQL Server, ArcGIS, Python, C# .Net,  SignalR, Node.js, React.js, Express, D3.js     
+- **Most Used Technologies**: Azure (Functions, Service Bus, AD, DevOps), SQL Server, ArcGIS, Python, C# .Net,  SignalR, Node.js, React.js, Express, D3.js     
 
 **Senior Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**    
-- Worked on developing data warehousing product that connected with different loan origination systems i.e. Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible. Tech Used: C# .Net, Azure, SQL Server, SSRS, Angular, Express Node.js, React.js.    
+- Worked on developing data warehousing product that connected with different loan origination systems i.e. Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible. **Most Used Technologies**: C# .Net, Azure, SQL Server, SSRS, Angular, Express Node.js, React.js.    
 
 
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**    
 - Worked as a Full Stack developer specializing in MERN Stack (React.js, Express.js, Mongo DB) and TypeScript.    
-- Created website and ordering system for Rollin' n Bowlin' (USA). Tech Used: Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
-- Created Jamat-Khana building inspection system for a US client. This application allowed creating inspection templates using a drag-drop interface and then templates could be used to carry out building inspections. Also added tags, weight based scoring, reporting and notifications functionality. Tech used: Nginx, Node.js, Python, ElasticSearch, MongoDB, React.js    
+- Created website and ordering system for Rollin' n Bowlin' (USA). **Most Used Technologies**: Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
+- Created Jamat-Khana building inspection system for a US client. This application allowed creating inspection templates using a drag-drop interface and then templates could be used to carry out building inspections. Also added tags, weight based scoring, reporting and notifications functionality. **Most Used Technologies**: Nginx, Node.js, Python, ElasticSearch, MongoDB, React.js    
 
 ### Other projects    
 **Kuwait Finance House Retail and Admin Banking Portal Web Apps**    
@@ -61,7 +62,7 @@ Full Stack backend-focused developer experienced working with enterprise legacy 
 - Upgraded .Net Webforms to modern system using React.js, Nest.js, Docker, Microservices, AWS, GraphQL    
 - Implemented AI based facial verification for KYC and customer onboarding    
 - Implemented multi-factor authentication flows    
-
+**Most Used Technologies**: TypeScript, Node.js, Azure, Docker, Kubernetes, Angular, Apollo GraphQL    
     
 ### **Education**    
 
