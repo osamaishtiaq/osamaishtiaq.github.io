@@ -30,14 +30,14 @@ Full Stack backend-focused developer experienced working with service-oriented d
     
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**    
 - Developed NFT Marketplace [Sphere](https://meritcircle.io/) for Merit Circle that uses Etheruem and Solana blockchains. **Most Used Technologies**: Nestjs, Node.js, TypeScript, Web3, Algolia, GraphQL and Angular.    
-- Worked on corporate loan applications for [Aymz](https://www.aymz.com/). Implemented document management, reporting tool and misc features development. **Most Used Technologies**: Next.js, Salesforce Connect, PostgreSQL, Heroku, SQL and React.js    
+- Worked on corporate loan applications for [Aymz](https://www.aymz.com/). Implemented document management, reporting tool and ETL process enhancements. **Most Used Technologies**: Next.js, Salesforce Connect, PostgreSQL, Heroku, SQL and React.js    
     
 **Senior Software Developer - Bettersource (July 2021 - Jan 2022)**    
-- Added features to Multiprac and other legacy health information system owned by Ocean Health Systems. Migrated on-premise windows server hosted systems to Microsoft Azure, added multi-tenancy and updated to SaaS. This allowed Ocean to provide services small and medium sized medical establishments based on subscription model.    
+- Added features to Multiprac and other legacy health information system owned by Ocean Health Systems. Migrated on-premise windows server hosted systems to Microsoft Azure, added multi-tenancy and updated to SaaS. This allowed Ocean to provide services to small and medium sized medical establishments based on subscription model.    
 - **Most Used Technologies**: Node.js, Angular, OpenEHR, FHIR, WCF, XML, SOAP, IIS, .Net C#, SQL, Azure Functions,     
     
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**    
-- Lead a team of 6 developers for F4Tech's Natural Resources Management System.    
+- Led a team of 6 developers for F4Tech's Natural Resources Management System.    
 - Improved code quality by adding tests and enabled CI/CD    
 - Introduced event based processing to move off load scheduled batch processing jobs. This also allowed updates in GIS to be reflected in realtime.    
 - Implemented notifications system in Legacy admin application    
