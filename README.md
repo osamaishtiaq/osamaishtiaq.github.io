@@ -33,12 +33,12 @@ Full Stack backend-focused developer experienced working with enterprise legacy 
 **Senior Software Engineer - DEPT® (March 2022 - September 2022)**    
 - Developed NFT Marketplace [Sphere](https://meritcircle.io/) for Merit Circle that uses Etheruem and Solana blockchains.    
 **Most Used Technologies**: Nestjs, Web3, Algolia, GraphQL and Angular.    
-- Worked on corporate loan applications for [Aymz](https://www.aymz.com/). Implemented document management, reporting tool and misc features development. **Most Used Technologies**: .Net, Salesforce Connect, PostgreSQL, Heroku, SQL and React.js    
-
+- Worked on corporate loan applications for [Aymz](https://www.aymz.com/). Implemented document management, reporting tool and misc features development. **Most Used Technologies**: Next.js, Salesforce Connect, PostgreSQL, Heroku, SQL and React.js    
+    
 **Senior Software Developer - Bettersource (July 2021 - Jan 2022)**    
 - Added features to Multiprac and other legacy health information system owned by Ocean Health Systems. Migrated on-premise windows server hosted systems to Microsoft Azure, added multi-tenancy and updated to SaaS. This allowed Ocean to provide services small and medium sized medical establishments based on subscription model.    
 - **Most Used Technologies**: OpenEHR, FHIR, WCF, XML, SOAP, IIS, .Net C#, SQL, Azure Functions, Node.js, Angular     
-
+    
 **Senior Software Engineer - ZEPCOM (Aug 2020 - July 2021)**    
 - Lead a team of 6 developers for F4Tech's Natural Resources Management System.    
 - Improved code quality by adding tests and enabled CI/CD    
@@ -46,16 +46,17 @@ Full Stack backend-focused developer experienced working with enterprise legacy 
 - Implemented notifications system in Legacy admin application    
 - Created open source [ArcGIS-Rest-DotNet](https://github.com/osamaishtiaq/arcgis-rest-dotnet) wrapper for simplifying ArcGIS Api calls from .Net Http clients.    
 - **Most Used Technologies**: Azure (Functions, Service Bus, AD, DevOps), SQL Server, ArcGIS, Python, C# .Net,  SignalR, Node.js, React.js, Express, D3.js     
-
+    
 **Senior Software Engineer - Awesome Technologies Inc. (Nov 2018 - Aug 2020)**    
-- Worked on developing data warehousing product that connected with different loan origination systems i.e. Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible. **Most Used Technologies**: C# .Net, Azure, SQL Server, SSRS, Angular, Express Node.js, React.js.    
-
-
+- Worked on developing data warehousing product that connected with different loan origination systems i.e. Encompass, BytePro and had custom reporting, ETL jobs creation and BI capabilities. I also worked on algorithm to read proprietary domain language for managing virtual fields used by Encompass which turned out 100% compatible.    
+**Most Used Technologies**: C# .Net, Azure, SQL Server, SSRS, Angular, Express Node.js, React.js.    
+    
 **Full Stack Developer - Ozarion Software Solutions (Apr 2015 - Aug 2018)**    
 - Worked as a Full Stack developer specializing in MERN Stack (React.js, Express.js, Mongo DB) and TypeScript.    
 - Created website and ordering system for Rollin' n Bowlin' (USA). **Most Used Technologies**: Shopify, Stripe subscriptions, Node.js, Express, MongoDB    
-- Created Jamat-Khana building inspection system for a US client. This application allowed creating inspection templates using a drag-drop interface and then templates could be used to carry out building inspections. Also added tags, weight based scoring, reporting and notifications functionality. **Most Used Technologies**: Nginx, Node.js, Python, ElasticSearch, MongoDB, React.js    
-
+- Created Jamat-Khana building inspection system for a US client. This application allowed creating inspection templates using a drag-drop interface and then templates could be used to carry out building inspections. Also added tags, weight based scoring, reporting and notifications functionality.    
+**Most Used Technologies**: Nginx, Node.js, Python, ElasticSearch, MongoDB, React.js    
+     
 ### Other projects    
 **Kuwait Finance House Retail and Admin Banking Portal Web Apps**    
 - I worked as a consultant in transforming KFH (Kuwait Finance House) Bank's legacy backend system to modern service oriented distributed architecture    
@@ -70,6 +71,5 @@ Full Stack backend-focused developer experienced working with enterprise legacy 
 PAF KIET 2014-2018    
 
 ### **Links**    
-
 - <https://github.com/osamaishtiaq>    
 - <https://www.linkedin.com/in/osama-ishtiaq-58990a178/>    
